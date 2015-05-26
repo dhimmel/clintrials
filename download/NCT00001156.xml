@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="217">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 21, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00001156</url>
+  </required_header>
+  <id_info>
+    <org_study_id>760021</org_study_id>
+    <secondary_id>76-N-0021</secondary_id>
+    <nct_id>NCT00001156</nct_id>
+  </id_info>
+  <brief_title>Assessment of Patients With Multiple Sclerosis (MS)</brief_title>
+  <official_title>Combined Clinical, Immunological and Virological Assessment of Patients With Multiple Sclerosis (MS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Neurological Disorders and Stroke (NINDS)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Multiple sclerosis (MS) is a disease of the nervous system.  The exact cause of MS is
+      unknown, but it is believed to be an autoimmune condition.  Autoimmune conditions are
+      diseases that cause the body's immune system and natural defenses to attack healthy cells.
+      In the case of MS, the immune system begins attacking myelin, the cells that make up the
+      sheath covering nerves.  Without myelin, nerves are unable to transmit signals effectively
+      and symptoms occur.
+
+      This study is directed toward a better understanding of the cause of Multiple Sclerosis
+      (MS). Researchers will evaluate patients with a tentative diagnosis of MS or other
+      neurological diseases possibly caused by a immunological reaction.  Patients will undergo a
+      series of three MRIs, taken once a month for three months and submit blood samples for
+      immunological studies.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Neuroimmunology Branch (NIB) conducts research into the cause of immunologically
+      mediated diseases of the nervous system such as multiple sclerosis (MS).  The studies in the
+      NIB range for studies of the natural history of MS to trials of new experimental therapies.
+      In order to recruit patients into the various NIB research studies, patients with a
+      tentative diagnosis are initially seen by the NIB to assess the accuracy of the diagnosis
+      and to assess the level of disease activity occurring in the patient.  Patients seen under
+      the NIB screening protocol are evaluated in clinic with a complete neurological examination.
+       Blood studies necessary to eliminate the possibility of many other causes of disease that
+      may resemble MS are performed.  Spinal fluid examination may be preformed if uncertainty
+      exists with respect to the diagnosis.  Finally, patients will have at least one MRI
+      preformed to assess the consistency with MRI findings expected in MS.  Most patients will
+      have a series of three MRIs done approximately one month apart in order to assess the
+      frequency of new contrast enhancing lesions occurring in the patient.  The level of disease
+      on MRI is important both from the standpoint of diagnosis as well as determining if the
+      patient may be eligible for any other NIB protocols.  To assess the patient's eligibility
+      for other NIB studies, the NIB may periodically follow patients in whom the diagnosis is
+      uncertain or in whom the level of disease activity is not clear for the initial evaluation.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 1976</start_date>
+  <completion_date>February 2010</completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>N/A</study_design>
+  <enrollment type="Actual">1388</enrollment>
+  <condition>Herpesviridae Infection</condition>
+  <condition>HTLV-I Infection</condition>
+  <condition>Multiple Sclerosis</condition>
+  <condition>Tropical Spastic Paraparesis</condition>
+  <condition>Vasculitis</condition>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:
+
+        Diagnosis of possible MS.
+
+        Age between 18 and 75.
+
+        EXCLUSION CRITERIA:
+
+        Clinically significant medical condition other than MS that could cause neurological
+        dysfunction.
+
+        Currently enrolled in an experimental study.
+
+        Medical contraindication for MRI.
+
+        Psychological contraindications for MRI.
+
+        Unable to provide informed consent.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center, 9000 Rockville Pike</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Martin R, McFarland HF, McFarlin DE. Immunological aspects of demyelinating diseases. Annu Rev Immunol. 1992;10:153-87. Review.</citation>
+    <PMID>1375472</PMID>
+  </reference>
+  <reference>
+    <citation>Alexander EL, Beall SS, Gordon B, Selnes OA, Yannakakis GD, Patronas N, Provost TT, McFarland HF. Magnetic resonance imaging of cerebral lesions in patients with the Sjögren syndrome. Ann Intern Med. 1988 Jun;108(6):815-23.</citation>
+    <PMID>3369771</PMID>
+  </reference>
+  <reference>
+    <citation>Beall SS, Concannon P, Charmley P, McFarland HF, Gatti RA, Hood LE, McFarlin DE, Biddison WE. The germline repertoire of T cell receptor beta-chain genes in patients with chronic progressive multiple sclerosis. J Neuroimmunol. 1989 Jan;21(1):59-66.</citation>
+    <PMID>2562801</PMID>
+  </reference>
+  <verification_date>February 2010</verification_date>
+  <lastchanged_date>February 2, 2010</lastchanged_date>
+  <firstreceived_date>November 3, 1999</firstreceived_date>
+  <keyword>Immunogenetics</keyword>
+  <keyword>Tropical Spastic Paraplegia</keyword>
+  <keyword>Twins</keyword>
+  <keyword>Epstein-Barr Virus</keyword>
+  <keyword>HTLV-I</keyword>
+  <keyword>Vasculitis</keyword>
+  <keyword>Cerebrospinal Fluid</keyword>
+  <keyword>Immunity to Viruses</keyword>
+  <keyword>Multiple Sclerosis</keyword>
+  <keyword>Magnetic Resonance Imaging</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>HTLV-I Infections</mesh_term>
+    <mesh_term>Herpesviridae Infections</mesh_term>
+    <mesh_term>Multiple Sclerosis</mesh_term>
+    <mesh_term>Paraparesis</mesh_term>
+    <mesh_term>Paraparesis, Spastic</mesh_term>
+    <mesh_term>Paraparesis, Tropical Spastic</mesh_term>
+    <mesh_term>Sclerosis</mesh_term>
+    <mesh_term>Vasculitis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>
