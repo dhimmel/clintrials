@@ -1,0 +1,132 @@
+<clinical_study rank="151320">
+  
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 05, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00785096</url>
+  </required_header>
+  <id_info>
+    <org_study_id>30-2008</org_study_id>
+    <nct_id>NCT00785096</nct_id>
+  </id_info>
+  <brief_title>How do Patients, Nurses and Physicians Perceive Negative Postoperative Events?</brief_title>
+  <official_title>Perception of Surgical Complications - Agreements Among Patients, Nurses and Physicians</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Zurich</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Zurich</source>
+  <oversight_info>
+    <authority>Switzerland: Ethikkommission</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess how patients, nurses and physicians perceive negative
+      events following surgical procedures.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2009</start_date>
+  <completion_date type="Actual">December 2009</completion_date>
+  <primary_completion_date type="Actual">December 2009</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Cohort, Time Perspective: Prospective</study_design>
+  <primary_outcome>
+    <measure>To assess how patients, nurses and physicians perceive negative events following surgical procedures</measure>
+    <time_frame>August 2008- December 2009</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Association to the Clavien Dindo Classification</measure>
+    <time_frame>August 2008 - December 2009</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Actual">615</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Patients</arm_group_label>
+    <description>Patients who admit for a minor or major surgical intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Nurses</arm_group_label>
+    <description>Medical staff of the University Hospital of Zurich</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Physicians</arm_group_label>
+    <description>Medical staff of the University Hospital of Zurich and other institutions</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaire</intervention_name>
+    <description>Questionnaire, complications, grading severity, visual analog scale</description>
+    <arm_group_label>Patients</arm_group_label>
+    <arm_group_label>Nurses</arm_group_label>
+    <arm_group_label>Physicians</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients who will admit for a minor or major surgical procedure Nurses from the University
+        Hospital of Zurich Different physicians of the University Hospital of Zurich (surgeons,
+        anesthesia, urologist ans ICU-care specialists)and other institutions.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age: &#8805; 18 years
+
+          -  Capacity to act and no legal guardian
+
+          -  Patients with any underlying disease admitted to the Department of Visceral and
+             Transplantation Surgery of the University Hospital of Zurich with planned minor or
+             major visceral surgery
+
+          -  German language as daily language.
+
+        Exclusion Criteria:
+
+          -  Patients with cognitive difficulties and diseases, which may yield unreliable answers
+
+          -  Patients unable to read and write
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Department of Visceral and Transplantation Surgery of the University Hospital of Zurich</name>
+      <address>
+        <city>Zurich</city>
+        <zip>8091</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>February 2015</verification_date>
+  <lastchanged_date>February 9, 2015</lastchanged_date>
+  <firstreceived_date>November 4, 2008</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Zurich</investigator_affiliation>
+    <investigator_full_name>Ksenija Slankamenac</investigator_full_name>
+    <investigator_title>MD PhD</investigator_title>
+  </responsible_party>
+  <keyword>Perception, surgical complications, patients, nurses and physicians</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  
+</clinical_study>

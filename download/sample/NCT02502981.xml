@@ -1,0 +1,504 @@
+<clinical_study rank="20162">
+  
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 05, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02502981</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SP/12/8/29620</org_study_id>
+    <nct_id>NCT02502981</nct_id>
+  </id_info>
+  <brief_title>Comparing the Effects of Spironolactone With Chlortalidone on LV Mass and Arterial Stiffness in Patients With CKD</brief_title>
+  <acronym>SPIRO-CKD</acronym>
+  <official_title>A Randomised Open Label, Blinded End Point Trial to Compare the Effects of Spironolactone With Chlortalidone on LV Mass and Arterial Stiffness in Stage 3 Chronic Kidney Disease (SPIRO-CKD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Royal Free Hospital NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Edinburgh</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Cambridge</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital Birmingham</source>
+  <oversight_info>
+    <authority>United Kingdom: Research Ethics Committee</authority>
+    <authority>United Kingdom: Medicines and Healthcare Products Regulatory Agency</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In stage 3 chronic kidney disease (CKD) the risk of death due to cardiovascular causes is
+      high and greatly exceeds the risk of progression to end stage renal failure. This high
+      cardiovascular risk is predominantly due to sudden cardiac death and heart failure,
+      manifestations of left ventricular hypertrophy and fibrosis. Aldosterone appears to play an
+      important role in the causation of this myocardial disease both by direct inflammatory and
+      fibrotic myocardial effects and via increased arterial stiffness due to hypertrophy,
+      inflammation, and fibrosis within the media of large arteries. Levels of aldosterone are
+      high in CKD despite sodium overload and treatment with angiotensin-converting enzyme (ACE)
+      inhibitor or angiotensin receptor blocker (ARB) drugs due to the twin phenomena of
+      aldosterone escape and breakthrough. In a previous British Heart Foundation funded study,
+      Birmingham investigators showed that the addition of the mineralocorticoid receptor blocker
+      (MRB) spironolactone to background therapy with ACE inhibitors or ARBs caused reductions in
+      the prognostically important parameters of arterial stiffness and LV mass. Because
+      spironolactone therapy was also associated with significant falls in arterial pressure it
+      remains possible that these effects were mediated simply by blood pressure reduction. In
+      this multi-centre, randomised controlled study, the effects of treatment with spironolactone
+      on LV mass and arterial stiffness in patients with stage 3 CKD on established ACE or ARB
+      therapy will be compared to those of chlortalidone, a control anti-hypertensive agent. Early
+      stage chronic kidney disease is highly prevalent and new, cost effective treatment
+      strategies are required to reduce cardiovascular risk. This study is designed to provide the
+      rationale for a larger study of morbidity and mortality with MRB therapy in early stage CKD.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background
+
+        1. Chronic kidney disease and cardiovascular disease CKD is a major but poorly recognised
+           and under-treated risk factor for cardiovascular disease. It can be categorised in to 5
+           stages according to GFR and the presence of markers of kidney damage. Stage 3 CKD, the
+           subject of this proposal, is defined by a glomerular filtration rate (GFR) of 30-59
+           ml/min/1.73m2. There is a graded inverse relationship between cardiovascular risk and
+           GFR which is independent of age, sex and other risk factors. There is also a graded
+           association between albuminuria and cardiovascular risk and in patients with both low
+           GFR and albuminuria, risk is increased with a multiplicative association. While the
+           cardiovascular risk of end stage CKD is extreme, in public health terms the burden
+           resides in early stage (CKD stages 1-3) disease, which is more prevalent affecting
+           almost 1 in 7 of the entire population, including approximately 4% of those aged 40-59
+           and more than 40% of those over 70 years. Thus, CKD is a potentially important risk
+           factor for cardiovascular disease in the general population. Although the risks of
+           myocardial infarction and other manifestations of coronary artery disease are increased
+           in CKD, there is a much greater increase in the incidence of heart failure and sudden
+           cardiac death in stages 3-5. This is almost certainly a reflection of the very high
+           prevalence of myocardial disease; left ventricular hypertrophy (LVH) often accompanied
+           by magnetic resonance imaging evidence of fibrosis is present in over 30% of patients
+           with stage 2 (GFR 60-89) and stage 3 CKD and in 80% of patients at the start of renal
+           replacement therapy. To date, the only prospective trial to examine the prognostic
+           benefit of drug therapy in this high risk group is the recently presented SHARP trial.
+           This showed a reduction in occlusive vascular events associated with LDL lowering with
+           simvastatin and ezetimibe. The Birmingham CRIB-2 study (see below) published in 2010
+           provided evidence that mineralocorticoid receptor blockade with spironolactone exerts
+           beneficial effects on intermediate end points of strong prognostic value including LV
+           mass and arterial stiffness. That work provides the basis for this application.
+
+           Pathophysiology of myocardial and vascular disease in chronic kidney disease
+
+           The main pathological features of cardiovascular disease in CKD are:
+
+             1. Myocardial disease characterised by LVH and fibrosis accompanied by systolic and
+                diastolic dysfunction.
+
+             2. Arterial wall thickening, stiffening and calcification (arteriosclerosis).
+
+             3. Coronary and peripheral artery atherosclerosis.
+
+           Although there is no doubt that patients with CKD are subject to accelerated
+           atherosclerosis the major pathological features of the cardiovascular system in CKD are
+           myocardial disease (so called uraemic cardiomyopathy) and arterial stiffening due to
+           arteriosclerosis. As kidney function declines, a range of abnormalities occur that may
+           exert adverse effects upon the cardiovascular system. Hypertension, chronic anaemia,
+           oxidative stress, inflammation and activation of the renin-angiotensin-aldosterone
+           (RAAS) and sympathetic nervous systems all appear to contribute to the development of
+           atherosclerosis, arteriosclerosis and myocardial hypertrophy and fibrosis.
+
+        2. Aldosterone and Cardiovascular Disease The fundamental role of the RAAS in
+           cardiovascular disease is apparent from the results of many large ACE inhibitor trials
+           showing mortality benefit in patients with chronic heart failure and in those with, or
+           at high risk of, coronary artery disease. These beneficial effects have been attributed
+           to prevention of the multiple adverse effects of angiotensin II. Strong evidence
+           suggests that aldosterone may also be an important mediator of cardiac and vascular
+           damage in many disease states. In trials involving patients with chronic heart failure
+           and heart failure complicating myocardial infarction, the addition of the MRBs -
+           spironolactone (RALES) or eplerenone (EPHESUS and EMPHASIS ) - to standard therapy
+           including ACE inhibition reduced mortality by up to 30%. Primary aldosteronism is
+           associated with a greater LV mass and higher risk of adverse cardiovascular events than
+           control hypertensive populations and in patients after myocardial infarction, plasma
+           aldosterone concentration even within the normal range predicts an adverse prognosis.
+           More recently, a study of subjects undergoing coronary angiography confirmed an
+           independent association of plasma aldosterone levels with total and cardiovascular
+           mortality.
+
+      The mechanisms of action of aldosterone include upregulation of Angiotensin 1 receptors and
+      direct effects on fibroblast collagen synthesis as well as decreased matrix
+      metallo-proteinase secretion. An anti-fibrotic effect of MRB therapy may be of major
+      importance. After myocardial infarction, circulating markers of collagen turnover and
+      fibrosis were reduced by MRB therapy and in the RALES study myocardial collagen turnover was
+      significantly reduced by spironolactone and the fall in the marker of this index was related
+      to the mortality benefit. In CKD stages 2 and 3, data from CRIB-2 showed that spironolactone
+      improves myocardial diastolic function and collagen turnover. .
+
+      Use of MRBs in Patients with CKD Although some doubt remains about whether ACE inhibitors
+      and ARBs are superior to other blood pressure lowering drugs in slowing the progression of
+      CKD, they may provide marginal extra benefit and are widely recommended in national and
+      international guidelines. Conversely, the traditional approach by nephrologists to MRB drugs
+      has been to avoid their use because of the risk of azotaemia and hyperkalaemia. There are
+      both theoretical and empirical reasons why this avoidance may be incorrect. Firstly, CKD is
+      characterised by an abnormal combination of chronic sodium overload and high (unsuppressed)
+      levels of circulating aldosterone; the normal relationship between circulating volume and
+      aldosterone secretion appears to be altered (aldosterone escape). Secondly, in a large
+      proportion of patients with CKD on standard treatment with ACE inhibitors or ARBs, there is
+      aldosterone 'breakthrough' so that aldosterone levels are high despite inhibition of the
+      system by prevention of angiotensin II formation or inhibition of angiotensin receptors.
+      Thus patients with CKD are exposed to high levels of aldosterone despite standard treatment.
+      The only other common disease state in which high aldosterone production continues to occur
+      in the face of sodium overload is chronic heart failure in which MRB therapy is of major
+      prognostic benefit reducing both adverse cardiovascular events and total mortality.
+
+      There is also accumulating evidence to suggest that the addition of MRBs to ACE inhibitors
+      in CKD might have beneficial effects by slowing the otherwise progressive decline in renal
+      function. Animal experiments have shown that aldosterone can mediate renal injury and that
+      MRBs such as eplerenone effectively reduce this. MRBs remain effective in low aldosterone
+      models of CKD probably reflecting the importance of local (paracrine) aldosterone synthesis.
+      In humans, small studies have suggested that the addition of MRBs to ACE inhibitors or ARB
+      reduces proteinuria and may slow the progression of renal disease. Thus, the widespread use
+      of MRBs in CKD has been advocated and has even been termed 'renal aspirin'. Until the
+      publication of the CRIB-2 trial however, little attention had been paid to the potentially
+      beneficial effects of MRB therapy on the cardiovascular system in patients with CKD.
+
+      The CRIB-2 trial The Effect of Spironolactone on Left Ventricular Mass and Aortic Stiffness
+      in Early-Stage Chronic Kidney Disease; a Randomised Controlled Trial In a placebo controlled
+      double blind trial, 112 patients (mean age 54 years) with stage 2 and 3 CKD with good blood
+      pressure control on established treatment with ACE inhibitors or ARBs were treated in an
+      active run-in phase with spironolactone 25 mg once daily for 4 weeks and then randomised to
+      continue spironolactone or to receive a matching placebo for a total of 40 weeks. LV mass
+      (cardiac magnetic resonance) and arterial stiffness (pulse wave velocity/analysis, aortic
+      distensibility) were measured before run in and after 40 weeks of treatment. Compared with
+      placebo, the use of spironolactone resulted in large reductions in LV mass and arterial
+      stiffness (pulse wave velocity, augmentation index and aortic distensibility). This trial
+      has been well received and widely publicised. In a recent review, Pitt stated that "we can
+      be cautiously optimistic that use of an MRB in addition to an ACE inhibitor or an ARB will
+      reduce the mortality and morbidity associated with CKD, as well as prevent its progression
+      to end-stage renal disease with all of its health-care and health-cost consequences". Thus,
+      this old and inexpensive drug has the potential to reduce adverse cardiovascular events and
+      mortality in early stage CKD, a risk factor that is now screened for routinely in primary
+      care by measurement of eGFR in the United Kingdom population. In the CRIB-2 trial, systolic
+      blood pressure was significantly reduced; spironolactone is well recognised as an effective
+      anti-hypertensive agent for patients with hypertension, even when this is resistant to other
+      drugs. It is therefore necessary to determine whether the improvements in arterial stiffness
+      and LV mass that occurred with spironolactone were mediated by this effect. Furthermore,
+      before a large scale clinical trial of spironolactone can be contemplated, it is necessary
+      to demonstrate that spironolactone can be used safely in a multi-centre trial design with
+      local monitoring of renal function and serum potassium. This study will provide the pilot
+      data on efficacy (independent of blood pressure) and safety that are necessary to undertake
+      a definitive phase III trial of the role of spironolactone in reducing cardiovascular
+      morbidity and mortality in patients with early stage CKD.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2014</start_date>
+  <completion_date type="Anticipated">February 2016</completion_date>
+  <primary_completion_date type="Anticipated">February 2016</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Change in LV mass measured by cardiac MRI</measure>
+    <time_frame>week 40</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in arterial stiffness measured by carotid-femoral pulse wave velocity</measure>
+    <time_frame>week 40</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in serum potassium</measure>
+    <time_frame>up to week 40</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Potassium will be assessed at baseline, week 1,2,4,8,20 and week 40</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in 24 hour ambulatory blood pressure</measure>
+    <time_frame>up to week 40</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Patients will wear an ambulatory monitor at week 0 and 40</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in left ventricular systolic function as measured by Global longitudinal strain using MR tagging</measure>
+    <time_frame>up to week 40</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Global longitudinal strain (%) will be assessed at week 0 and 40</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in renal function</measure>
+    <time_frame>up to week 40</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Estimated GFR will calculated using the Modification of Diet in Renal Disease equation at baseline, week 1,2,4,8,20 and week 40</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Renal Insufficiency, Chronic</condition>
+  <condition>Cardio-Renal Syndrome</condition>
+  <arm_group>
+    <arm_group_label>CKD stage 2 &amp; 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with CKD stage 2 &amp; 3 (eGFR 30-89ml/min/1.73m2) will be randomly assigned to receive either spironolactone or chlortalidone in a PROBE design.
+Subjects will undergo cardiac MRI, carotid femoral pulse wave velocity, 24 hour ambulatory blood pressure monitoring, blood tests for renal function and spot urine analysis for proteinuria (albumin:creatinine ratio) at baseline and after 40 weeks of allocated treatment. Additional blood tests for renal function and potassium level will be assessed at week 1,2,4,8 and 20.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Spironolactone</intervention_name>
+    <description>25mg orally once a day for 40 weeks</description>
+    <arm_group_label>CKD stage 2 &amp; 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>chlortalidone</intervention_name>
+    <description>25mg orally once a day for 40 weeks</description>
+    <arm_group_label>CKD stage 2 &amp; 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Ambulatory blood pressure monitor&#174;</intervention_name>
+    <description>24 hour ambulatory blood pressure monitor will be worn by subjects at baseline and week 40</description>
+    <arm_group_label>CKD stage 2 &amp; 3</arm_group_label>
+    <other_name>Mobilograph</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Carotid femoral pulse wave velocity</intervention_name>
+    <description>Assessment of Carotid femoral pulse wave velocity at baseline and week 40</description>
+    <arm_group_label>CKD stage 2 &amp; 3</arm_group_label>
+    <other_name>AtCor Medical SphygmoCor</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Cardiac magnetic resonance imaging</intervention_name>
+    <description>Assessment of cardiac function and mass using cardiac MRI at baseline and week 40</description>
+    <arm_group_label>CKD stage 2 &amp; 3</arm_group_label>
+    <other_name>Cardiac MRI Siemens</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Blood tests</intervention_name>
+    <description>Blood tests for renal function, eGFR and potassium level will be performed at baseline, week 1,2,4,8,20 and 40</description>
+    <arm_group_label>CKD stage 2 &amp; 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Spot urine collection for albumin:creatinine ratio</intervention_name>
+    <description>Will be performed at baseline and week 40</description>
+    <arm_group_label>CKD stage 2 &amp; 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with stage 2 &amp; 3 CKD (eGFR by Modification of Diet in Renal Disease equation
+             of 30-89ml/min on 2 occasions, at least 2 months apart)
+
+          -  Well controlled blood pressure (office reading of &lt; 150/90 mmHg)
+
+          -  On established (&gt;6 weeks) treatment with ACE inhibitors or Angiotensin receptor
+             antagonists (ARBs).
+
+        Exclusion Criteria:
+
+          -  Diabetes mellitus
+
+          -  Acute myocardial infarction (&lt;6 months),
+
+          -  Left ventricular systolic dysfunction (ejection fraction&lt;50% on echo or other imaging
+             ),
+
+          -  Active malignant disease with a life expectancy of &lt; 5 years,
+
+          -  Previous hyperkalaemia (K+&gt;6.0 mmol/l without precipitating cause),
+
+          -  Serum K+&gt;5.0 mmol/l at entry,
+
+          -  Atrial fibrillation,
+
+          -  Use of a thiazide diuretic in the 6 weeks prior to enrolment.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gemma Slinn</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Birmingham</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>John N Townend, MD</last_name>
+    <email>john.townend@uhb.nhs.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nicola C Edwards, PhD</last_name>
+    <email>nicky.edwards@uhb.nhs.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Departments of Cardiology &amp; Nephrology University Hospital Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>West Midlands</state>
+        <zip>B15 2TH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John N Townend</last_name>
+      <email>john.townend@uhb.nhs.uk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cambridge Clinical Trials Unit, University of Cambridge and Addenbrooke's Hospital</name>
+      <address>
+        <city>Cambridge</city>
+        <zip>CB2 0QQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas F , PhD</last_name>
+      <email>tfh24@cam.ac.uk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Edinburgh: BHF Centre for Cardiovascular Science and Western General Hospital</name>
+      <address>
+        <city>Edinburgh</city>
+        <zip>EH16 4TJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Webb, PhD</last_name>
+      <email>d.j.webb@ed.ac.uk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Free Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>NW3 2QG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Wheeler, PhD</last_name>
+      <email>d.wheeler@ucl.ac.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <reference>
+    <citation>Go AS, Chertow GM, Fan D, McCulloch CE, Hsu CY. Chronic kidney disease and the risks of death, cardiovascular events, and hospitalization. N Engl J Med. 2004 Sep 23;351(13):1296-305. Erratum in: N Engl J Med. 2008;18(4):4.</citation>
+    <PMID>15385656</PMID>
+  </reference>
+  <reference>
+    <citation>Coresh J, Selvin E, Stevens LA, Manzi J, Kusek JW, Eggers P, Van Lente F, Levey AS. Prevalence of chronic kidney disease in the United States. JAMA. 2007 Nov 7;298(17):2038-47.</citation>
+    <PMID>17986697</PMID>
+  </reference>
+  <reference>
+    <citation>Edwards NC, Ferro CJ, Townend JN, Steeds RP. Aortic distensibility and arterial-ventricular coupling in early chronic kidney disease: a pattern resembling heart failure with preserved ejection fraction. Heart. 2008 Aug;94(8):1038-43. doi: 10.1136/hrt.2007.137539. Epub 2008 Feb 28.</citation>
+    <PMID>18308865</PMID>
+  </reference>
+  <reference>
+    <citation>Edwards NC, Steeds RP, Stewart PM, Ferro CJ, Townend JN. Effect of spironolactone on left ventricular mass and aortic stiffness in early-stage chronic kidney disease: a randomized controlled trial. J Am Coll Cardiol. 2009 Aug 4;54(6):505-12. doi: 10.1016/j.jacc.2009.03.066.</citation>
+    <PMID>19643310</PMID>
+  </reference>
+  <reference>
+    <citation>Chue CD, Townend JN, Steeds RP, Ferro CJ. Arterial stiffness in chronic kidney disease: causes and consequences. Heart. 2010 Jun;96(11):817-23. doi: 10.1136/hrt.2009.184879. Epub 2010 Apr 20. Review.</citation>
+    <PMID>20406771</PMID>
+  </reference>
+  <reference>
+    <citation>Pitt B, Zannad F, Remme WJ, Cody R, Castaigne A, Perez A, Palensky J, Wittes J. The effect of spironolactone on morbidity and mortality in patients with severe heart failure. Randomized Aldactone Evaluation Study Investigators. N Engl J Med. 1999 Sep 2;341(10):709-17.</citation>
+    <PMID>10471456</PMID>
+  </reference>
+  <reference>
+    <citation>Brown NJ. Aldosterone and vascular inflammation. Hypertension. 2008 Feb;51(2):161-7. doi: 10.1161/HYPERTENSIONAHA.107.095489. Epub 2008 Jan 2. Review.</citation>
+    <PMID>18172061</PMID>
+  </reference>
+  <reference>
+    <citation>Struthers AD. Aldosterone: cardiovascular assault. Am Heart J. 2002 Nov;144(5 Suppl):S2-7. Review.</citation>
+    <PMID>12422134</PMID>
+  </reference>
+  <reference>
+    <citation>Rocha R, Stier CT Jr, Kifor I, Ochoa-Maya MR, Rennke HG, Williams GH, Adler GK. Aldosterone: a mediator of myocardial necrosis and renal arteriopathy. Endocrinology. 2000 Oct;141(10):3871-8.</citation>
+    <PMID>11014244</PMID>
+  </reference>
+  <reference>
+    <citation>Zannad F, Alla F, Dousset B, Perez A, Pitt B. Limitation of excessive extracellular matrix turnover may contribute to survival benefit of spironolactone therapy in patients with congestive heart failure: insights from the randomized aldactone evaluation study (RALES). Rales Investigators. Circulation. 2000 Nov 28;102(22):2700-6. Erratum in: Circulation 2001 Jan 23;103(3):476.</citation>
+    <PMID>11094035</PMID>
+  </reference>
+  <reference>
+    <citation>Edwards NC, Ferro CJ, Kirkwood H, Chue CD, Young AA, Stewart PM, Steeds RP, Townend JN. Effect of spironolactone on left ventricular systolic and diastolic function in patients with early stage chronic kidney disease. Am J Cardiol. 2010 Nov 15;106(10):1505-11. doi: 10.1016/j.amjcard.2010.07.018.</citation>
+    <PMID>21059444</PMID>
+  </reference>
+  <reference>
+    <citation>Blacher J, Guerin AP, Pannier B, Marchais SJ, Safar ME, London GM. Impact of aortic stiffness on survival in end-stage renal disease. Circulation. 1999 May 11;99(18):2434-9.</citation>
+    <PMID>10318666</PMID>
+  </reference>
+  <reference>
+    <citation>Matsumoto Y, Hamada M, Hiwada K. Aortic distensibility is closely related to the progression of left ventricular hypertrophy in patients receiving hemodialysis. Angiology. 2000 Nov;51(11):933-41.</citation>
+    <PMID>11103862</PMID>
+  </reference>
+  <reference>
+    <citation>Rahman M, Pressel S, Davis BR, Nwachuku C, Wright JT Jr, Whelton PK, Barzilay J, Batuman V, Eckfeldt JH, Farber M, Henriquez M, Kopyt N, Louis GT, Saklayen M, Stanford C, Walworth C, Ward H, Wiegmann T. Renal outcomes in high-risk hypertensive patients treated with an angiotensin-converting enzyme inhibitor or a calcium channel blocker vs a diuretic: a report from the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT). Arch Intern Med. 2005 Apr 25;165(8):936-46.</citation>
+    <PMID>15851647</PMID>
+  </reference>
+  <reference>
+    <citation>Smith DH, Neutel JM, Lacourci&#232;re Y, Kempthorne-Rawson J. Prospective, randomized, open-label, blinded-endpoint (PROBE) designed trials yield the same results as double-blind, placebo-controlled trials with respect to ABPM measurements. J Hypertens. 2003 Jul;21(7):1291-8.</citation>
+    <PMID>12817175</PMID>
+  </reference>
+  <reference>
+    <citation>Mark PB, Johnston N, Groenning BA, Foster JE, Blyth KG, Martin TN, Steedman T, Dargie HJ, Jardine AG. Redefinition of uremic cardiomyopathy by contrast-enhanced cardiac magnetic resonance imaging. Kidney Int. 2006 May;69(10):1839-45.</citation>
+    <PMID>16508657</PMID>
+  </reference>
+  <results_reference>
+    <citation>National Kidney Foundation. K/DOQI clinical practice guidelines for chronic kidney disease: evaluation, classification, and stratification. Am J Kidney Dis. 2002 Feb;39(2 Suppl 1):S1-266.</citation>
+    <PMID>11904577</PMID>
+  </results_reference>
+  <verification_date>July 2015</verification_date>
+  <lastchanged_date>July 16, 2015</lastchanged_date>
+  <firstreceived_date>July 14, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University Hospital Birmingham</investigator_affiliation>
+    <investigator_full_name>Dr JN Townend</investigator_full_name>
+    <investigator_title>Professor of Cardiology</investigator_title>
+  </responsible_party>
+  <keyword>CKD</keyword>
+  <keyword>left ventricle</keyword>
+  <keyword>aldosterone</keyword>
+  <keyword>spironolactone</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    
+    <mesh_term>Cardio-Renal Syndrome</mesh_term>
+    <mesh_term>Renal Insufficiency</mesh_term>
+    <mesh_term>Renal Insufficiency, Chronic</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    
+    <mesh_term>Chlorthalidone</mesh_term>
+    <mesh_term>Spironolactone</mesh_term>
+  </intervention_browse>
+  
+</clinical_study>

@@ -1,0 +1,1671 @@
+<clinical_study rank="157151">
+  
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 05, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00708305</url>
+  </required_header>
+  <id_info>
+    <org_study_id>T3508570</org_study_id>
+    <nct_id>NCT00708305</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Plaque Fluid Fluoride Retention From Fluoride Toothpastes</brief_title>
+  <official_title>Evaluation of Plaque Fluid Fluoride Retention From Fluoride Toothpastes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to investigate the efficacy of different sodium fluoride (NaF)
+      containing toothpastes in prevention of dental caries. Change from baseline fluoride data at
+      various time points up to four hours after a single brushing with NaF containing toothpastes
+      will be evaluated.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Topical fluorides in a wide variety of delivery systems have been proven to be clinically
+      effective in the prevention of dental caries. It is generally agreed that fluoride has its
+      anti-caries effect mainly by decreasing the rate of enamel demineralization and enhancing
+      the rate of enamel remineralization. There is a general consensus that level of fluoride in
+      plaque fluid, may be directly related to the anti caries effects of fluoride. Also, fluoride
+      levels in the oral fluids decrease rapidly after topical fluoride application, mainly due to
+      the diluting and washing effect of saliva followed by periodic swallowing. To evaluate
+      fluoride content, plaque samples will be collected from the interproximal surfaces of the
+      posterior teeth of participants using a standardized approach. Plaque fluid fluoride will be
+      calculated using a micro analytical method and in comparison to a standard fluoride curve
+      constructed on the same day of the analysis.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 2008</start_date>
+  <completion_date type="Actual">October 2008</completion_date>
+  <primary_completion_date type="Actual">October 2008</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Natural Log Transformed Area Under the Fluoride Concentration in Plaque Fluid by Time Curve (AUC) Between 0-4 Hours</measure>
+    <time_frame>Plaque samples collected at 15 minutes, 30 minutes, 1 hour, 2 hours and 4 hours post single application of treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate fluoride content, plaque samples were collected from the interproximal surfaces of the posterior teeth of participants using a standardized approach. Plaque fluid fluoride were calculated using a micro analytical method and in comparison to a standard fluoride curve constructed on the same day of the analysis. AUC was determined from 0-4hours using trapezoidal rule and natural log transformation was applied due to failure of assumption of normal distribution of data.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Natural Log Transformed AUC for Fluoride Concentration in Plaque Fluid Between 0-4 Hours</measure>
+    <time_frame>Plaque samples collected at 15 minutes, 30 minutes, 1 hour, 2 hours and 4 hours post single application of treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate fluoride content, plaque samples were collected from the interproximal surfaces of the posterior teeth of participants using a standardized approach. Plaque fluid fluoride were calculated using a micro analytical method and in comparison to a standard fluoride curve constructed on the same day of the analysis. AUC was determined from 0-4 hours using trapezoidal rule and natural log transformation was applied.due to failure of assumption of normal distribution of data.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Fluoride Concentration at 15 Minutes After Brushing With Study Treatments</measure>
+    <time_frame>Plaque samples were collected at baseline, 15 minutes post single application of study treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change from baseline at any time point for a treatment period was calculated as the median post brushing fluoride value at a time point minus the median baseline (pre-brushing) fluoride value for a treatment period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Fluoride Concentration at 30 Minutes Post Brushing With Study Treatments</measure>
+    <time_frame>Plaque samples were collected at baseline, 30 minutes post single application of study treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change from baseline at any time point for a treatment period was calculated as the median post brushing fluoride value at a time point minus the median baseline (pre-brushing) fluoride value for a treatment period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Fluoride Concentration at 1 Hour Post Brushing With Study Treatments</measure>
+    <time_frame>Plaque samples were collected at baseline, 1 hour post single application of study treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change from baseline at any time point for a treatment period was calculated as the median post brushing fluoride value at a time point minus the median baseline (pre-brushing) fluoride value for a treatment period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Fluoride Concentration at 2 Hours Post Brushing With Study Treatments</measure>
+    <time_frame>Plaque samples were collected at baseline, 2 hour post single application of study treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change from baseline at any time point for a treatment period was calculated as the median post brushing fluoride value at a time point minus the median baseline (pre-brushing) fluoride value for a treatment period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Fluoride Concentration at 4 Hours Post Brushing With Study Treatments</measure>
+    <time_frame>Plaque samples were collected at baseline, 4 hours post single application of study treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change from baseline at any time point for a treatment period was calculated as the median post brushing fluoride value at a time point minus the median baseline (pre-brushing) fluoride value for a treatment period.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">65</enrollment>
+  <condition>Dental Caries</condition>
+  <arm_group>
+    <arm_group_label>NaF toothpaste (1450 parts per million [ppm] fluoride [F])</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants brushed for one timed minute with 1.6g of NaF/silica and 0.4 percent carbopol toothpaste containing 1450ppmF as NaF. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NaF toothpaste (1400ppmF)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants brushed for one timed minute with 1.6g of NaF toothpaste containing 1400ppmF as NaF. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sodium monofluorophosphate (NaMFP)/ NaF toothpaste (1450ppmF))</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants brushed for one timed minute with 1.6g of NaMFP/NaF toothpaste containing 1450ppmF from NaMFP and NaF. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo toothpaste (0ppmF)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants brushed for one timed minute with 1.6g of fluoride free toothpaste. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sodium Fluoride (NaF)</intervention_name>
+    <description>Different fluoride toothpastes containing between 1400ppmF - 1450ppmF of fluoride as NaF</description>
+    <arm_group_label>NaF toothpaste (1450 parts per million [ppm] fluoride [F])</arm_group_label>
+    <arm_group_label>Sodium monofluorophosphate (NaMFP)/ NaF toothpaste (1450ppmF))</arm_group_label>
+    <arm_group_label>NaF toothpaste (1400ppmF)</arm_group_label>
+    <other_name>fluoride</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Fluoride free toothpaste (0ppmF)</description>
+    <arm_group_label>Placebo toothpaste (0ppmF)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Age:Age 18 through 65 years.
+
+          2. General Health: Good general health with (in the opinion of the investigator) no
+             clinically significant and/or relevant abnormalities of medical history or oral
+             examination, specifically including diabetes or hypoglycemia.
+
+          3. Compliance: Understands and is willing, able and likely to comply with all study
+             procedures and restrictions.
+
+          4. Consent: Demonstrates understanding of the study and willingness to participate as
+             evidenced by voluntary written informed consent and has received a signed and dated
+             copy of the informed consent form.
+
+          5. Oral: a) Currently living in the Indianapolis, Indiana area and not taking fluoride
+             supplements. b) Have a normal stimulated (= 0.8 ml/min) and unstimulated (= 0.2
+             ml/min) salivary flow rate. c) Have a full complement of natural teeth with the
+             exception of third molars and teeth extracted for orthodontic reasons. Participants
+             natural teeth must have at least one surface free of restoration in each
+             interproximal embrasure. d) Produce at least 6mg of plaque at Screening Visit 2.
+
+        Exclusion Criteria:
+
+          1. Pregnancy:Women who are known to be pregnant or who are intending to become pregnant
+             over the duration of the study. No pregnancy test will be required.
+
+          2. Breast-feeding:Women who are breast-feeding.
+
+          3. Medical History:Current or relevant history of any serious, severe or unstable
+             physical or psychiatric illness that would make the subject unlikely to fully
+             complete the study or any that increases the risk to the subject.
+
+          4. Allergy/Intolerance: Known or suspected intolerance or hypersensitivity to the study
+             materials (or closely related compounds) or any of their stated ingredients.
+
+          5. Clinical Study/Experimental Medication:Participation in another clinical study or
+             receipt of an investigational drug within 30 days of the screening visit 1 at the
+             start of the study with the exception of those participating in GSKCH study Z3170476.
+
+          6. Medication: a) Currently taking antibiotics or have taken antibiotics in the two
+             weeks prior to any treatment visit or during the study. b) Has a medical condition
+             that would require prophylactic antibiotics prior to a dental cleaning.
+
+          7. Dental: a) Current active caries or moderate to severe periodontal disease that may
+             compromise the health of the participants or the study. b) Current use of
+             chlorhexidine mouthrinse.
+
+          8. Personnel: An employee of the sponsor or the study site who is directly involved in
+             the conduct of the study.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Indiana University School of Dentistry</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2014</verification_date>
+  <lastchanged_date>December 11, 2014</lastchanged_date>
+  <firstreceived_date>July 1, 2008</firstreceived_date>
+  <firstreceived_results_date>September 14, 2010</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>toothpaste</keyword>
+  <keyword>plaque fluid</keyword>
+  <keyword>fluoride</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    
+    <mesh_term>Dental Caries</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    
+    <mesh_term>Fluorides</mesh_term>
+    <mesh_term>Listerine</mesh_term>
+    <mesh_term>Sodium Fluoride</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Participants were recruited at the clinical site.</recruitment_details>
+      <pre_assignment_details>There was a four-day wash out prior to each treatment period during which participants used the study fluoride-free toothpaste. Two to three days prior to the start of each treatment visit, participants attended the study site for a dental prophylaxis then discontinued all oral hygiene prior to study treatment visit.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Sodium Fluoride (NaF) Toothpaste(1450 Parts Per Million(Ppm)F)</title>
+          <description>Participants brushed their natural teeth for one timed minute with 1.6 grams (g) of with NaF and 0.4% carbopol toothpaste (1450 ppm F as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+        </group>
+        <group group_id="P2">
+          <title>NaF Toothpaste (1400ppmF)</title>
+          <description>Participants brushed their natural teeth for one timed minute with 1.6 g NaF toothpaste (1400 ppm F as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+        </group>
+        <group group_id="P3">
+          <title>Sodium Monofluorophosphate (NaMFP)/NaF Toothpaste (1450ppmF)</title>
+          <description>Participants brushed their natural teeth for one timed minute with 1.6 g NaMFP and NaF toothpaste (1450 ppm F &#8211; 1000 ppm F as NaMFP and 450 ppm F as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+        </group>
+        <group group_id="P4">
+          <title>Placebo Toothpaste (0ppmF)</title>
+          <description>Participants brushed their natural teeth for one timed minute with 1.6 g fluoride free toothpaste (0ppmF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Period 1</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants count="16" group_id="P1" />
+                <participants count="16" group_id="P2" />
+                <participants count="17" group_id="P3" />
+                <participants count="16" group_id="P4" />
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants count="15" group_id="P1" />
+                <participants count="16" group_id="P2" />
+                <participants count="16" group_id="P3" />
+                <participants count="14" group_id="P4" />
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants count="1" group_id="P1" />
+                <participants count="0" group_id="P2" />
+                <participants count="1" group_id="P3" />
+                <participants count="2" group_id="P4" />
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants count="1" group_id="P1" />
+                <participants count="0" group_id="P2" />
+                <participants count="1" group_id="P3" />
+                <participants count="0" group_id="P4" />
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other Reason</title>
+              <participants_list>
+                <participants count="0" group_id="P1" />
+                <participants count="0" group_id="P2" />
+                <participants count="0" group_id="P3" />
+                <participants count="2" group_id="P4" />
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Period 2</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants count="15" group_id="P1">Due to crossover design, different set of participants received this treatment compared to Period 1</participants>
+                <participants count="15" group_id="P2">Due to crossover design, different set of participants received this treatment compared to Period 1</participants>
+                <participants count="16" group_id="P3">Due to crossover design, different set of participants received this treatment compared to Period 1</participants>
+                <participants count="15" group_id="P4">Due to crossover design, different set of participants received this treatment compared to Period 1</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants count="14" group_id="P1" />
+                <participants count="13" group_id="P2" />
+                <participants count="16" group_id="P3" />
+                <participants count="14" group_id="P4" />
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants count="1" group_id="P1" />
+                <participants count="2" group_id="P2" />
+                <participants count="0" group_id="P3" />
+                <participants count="1" group_id="P4" />
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants count="0" group_id="P1" />
+                <participants count="1" group_id="P2" />
+                <participants count="0" group_id="P3" />
+                <participants count="0" group_id="P4" />
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants count="0" group_id="P1" />
+                <participants count="1" group_id="P2" />
+                <participants count="0" group_id="P3" />
+                <participants count="0" group_id="P4" />
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other Reason</title>
+              <participants_list>
+                <participants count="1" group_id="P1" />
+                <participants count="0" group_id="P2" />
+                <participants count="0" group_id="P3" />
+                <participants count="1" group_id="P4" />
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Period 3</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants count="15" group_id="P1">Due to crossover design, different set of participants received this treatment compared to Period 2</participants>
+                <participants count="14" group_id="P2">Due to crossover design, different set of participants received this treatment compared to Period 2</participants>
+                <participants count="14" group_id="P3">Due to crossover design, different set of participants received this treatment compared to Period 2</participants>
+                <participants count="14" group_id="P4">Due to crossover design, different set of participants received this treatment compared to Period 2</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants count="14" group_id="P1" />
+                <participants count="12" group_id="P2" />
+                <participants count="14" group_id="P3" />
+                <participants count="14" group_id="P4" />
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants count="1" group_id="P1" />
+                <participants count="2" group_id="P2" />
+                <participants count="0" group_id="P3" />
+                <participants count="0" group_id="P4" />
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants count="0" group_id="P1" />
+                <participants count="2" group_id="P2" />
+                <participants count="0" group_id="P3" />
+                <participants count="0" group_id="P4" />
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other Reason</title>
+              <participants_list>
+                <participants count="1" group_id="P1" />
+                <participants count="0" group_id="P2" />
+                <participants count="0" group_id="P3" />
+                <participants count="0" group_id="P4" />
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Period 4</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants count="12" group_id="P1">Due to crossover design, different set of participants received this treatment compared to Period 3</participants>
+                <participants count="14" group_id="P2">Due to crossover design, different set of participants received this treatment compared to Period 3</participants>
+                <participants count="14" group_id="P3">Due to crossover design, different set of participants received this treatment compared to Period 3</participants>
+                <participants count="14" group_id="P4">Due to crossover design, different set of participants received this treatment compared to Period 3</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants count="12" group_id="P1" />
+                <participants count="14" group_id="P2" />
+                <participants count="14" group_id="P3" />
+                <participants count="14" group_id="P4" />
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants count="0" group_id="P1" />
+                <participants count="0" group_id="P2" />
+                <participants count="0" group_id="P3" />
+                <participants count="0" group_id="P4" />
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Overall Study</title>
+          <description>All randomized participants</description>
+        </group>
+      </group_list>
+      <measure_list>
+        <measure>
+          <title>Number of Participants</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="65" />
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" spread="6.97" value="26.4" />
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>Female</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="31" />
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Male</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="34" />
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>United States</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="65" />
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Natural Log Transformed Area Under the Fluoride Concentration in Plaque Fluid by Time Curve (AUC) Between 0-4 Hours</title>
+        <description>To evaluate fluoride content, plaque samples were collected from the interproximal surfaces of the posterior teeth of participants using a standardized approach. Plaque fluid fluoride were calculated using a micro analytical method and in comparison to a standard fluoride curve constructed on the same day of the analysis. AUC was determined from 0-4hours using trapezoidal rule and natural log transformation was applied due to failure of assumption of normal distribution of data.</description>
+        <time_frame>Plaque samples collected at 15 minutes, 30 minutes, 1 hour, 2 hours and 4 hours post single application of treatment</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Per-Protocol (PP) population: All participants who had at least one post-baseline efficacy assessment but did not have any major protocol deviations. Due to drop outs, there were differences in the "n" per treatment group. Missing data was not imputed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>NaF Toothpaste(1450 Ppm F)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g of with NaF and 0.4% carbopol toothpaste (1450ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O2">
+            <title>NaF Toothpaste (1400 Ppm F)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6 g NaF toothpaste (1400ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="58" />
+                  <measurement group_id="O2" value="57" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Natural Log Transformed Area Under the Fluoride Concentration in Plaque Fluid by Time Curve (AUC) Between 0-4 Hours</title>
+            <description>To evaluate fluoride content, plaque samples were collected from the interproximal surfaces of the posterior teeth of participants using a standardized approach. Plaque fluid fluoride were calculated using a micro analytical method and in comparison to a standard fluoride curve constructed on the same day of the analysis. AUC was determined from 0-4hours using trapezoidal rule and natural log transformation was applied due to failure of assumption of normal distribution of data.</description>
+            <units>ln(&#956;g*F*minutes/cm^2)</units>
+            <param>Least Squares Mean</param>
+            <dispersion>Standard Error</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" spread="0.086" value="0.54" />
+                  <measurement group_id="O2" spread="0.087" value="0.54" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis is no difference between treatments in comparison. Tests were 2-sided at 5% significance levels.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>0.9762</p_value>
+            <p_value_desc>No adjustment was made for multiple comparisons as the primary comparison was predefined.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>The model included mean baseline fluoride level for treatment period (covariate), treatment and period as fixed and subject was random factor.</method_desc>
+            <param_type>Adjusted Mean Difference</param_type>
+            <param_value>0.00</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_lower_limit>-0.21</ci_lower_limit>
+            <ci_upper_limit>0.20</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Natural Log Transformed AUC for Fluoride Concentration in Plaque Fluid Between 0-4 Hours</title>
+        <description>To evaluate fluoride content, plaque samples were collected from the interproximal surfaces of the posterior teeth of participants using a standardized approach. Plaque fluid fluoride were calculated using a micro analytical method and in comparison to a standard fluoride curve constructed on the same day of the analysis. AUC was determined from 0-4 hours using trapezoidal rule and natural log transformation was applied.due to failure of assumption of normal distribution of data.</description>
+        <time_frame>Plaque samples collected at 15 minutes, 30 minutes, 1 hour, 2 hours and 4 hours post single application of treatment</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>Per-Protocol (PP) population: All participants who had at least one post-baseline efficacy assessment but did not have any major protocol deviations. Due to drop outs, there were differences in the "n" per treatment group. Missing data was not imputed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>NaF Toothpaste(1450ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g of with NaF and 0.4% carbopol toothpaste (1450ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O2">
+            <title>NaF Toothpaste (1400ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g NaF toothpaste (1400ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O3">
+            <title>NaMFP/NaF Toothpaste (1450ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g NaMFP and NaF toothpaste (1450ppmF &#8211; 1000ppmF as NaMFP and 450ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo Toothpaste (0ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g fluoride free toothpaste (0ppmF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="58" />
+                  <measurement group_id="O2" value="57" />
+                  <measurement group_id="O3" value="58" />
+                  <measurement group_id="O4" value="56" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Natural Log Transformed AUC for Fluoride Concentration in Plaque Fluid Between 0-4 Hours</title>
+            <description>To evaluate fluoride content, plaque samples were collected from the interproximal surfaces of the posterior teeth of participants using a standardized approach. Plaque fluid fluoride were calculated using a micro analytical method and in comparison to a standard fluoride curve constructed on the same day of the analysis. AUC was determined from 0-4 hours using trapezoidal rule and natural log transformation was applied.due to failure of assumption of normal distribution of data.</description>
+            <units>ln(&#956;g*F*minutes/cm^2)</units>
+            <param>Log Mean</param>
+            <dispersion>Standard Error</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" spread="0.086" value="0.54" />
+                  <measurement group_id="O2" spread="0.087" value="0.54" />
+                  <measurement group_id="O3" spread="0.086" value="0.05" />
+                  <measurement group_id="O4" spread="0.087" value="-0.90" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis is no difference between treatments being compared. Tests were 2 sided at 5% significance levels.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustment was made for multiple comparisons as the comparisons were predefined.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>The model included mean baseline fluoride level for treatment period (covariate), treatment and period as fixed and subject was random factor.</method_desc>
+            <param_type>Adjusted Mean DIfference</param_type>
+            <param_value>0.49</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.28</ci_lower_limit>
+            <ci_upper_limit>0.70</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Tests were 2 sided at 5% significance levels.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustment was made for multiple comparisons because the comparisons were predefined.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>The model included mean baseline fluoride level for treatment period (covariate), treatment and period as fixed and subject was random factor.</method_desc>
+            <param_type>Adjusted Mean Difference</param_type>
+            <param_value>1.44</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_lower_limit>1.23</ci_lower_limit>
+            <ci_upper_limit>1.65</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Tests were 2 sided at 5% significance levels.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustment was made for multiple comparisons because the comparisons were predefined.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>The model included mean baseline fluoride level for treatment period (covariate), treatment and period as fixed and subject was random factor.</method_desc>
+            <param_type>Adjusted Mean Difference</param_type>
+            <param_value>0.49</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_lower_limit>0.28</ci_lower_limit>
+            <ci_upper_limit>0.70</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Tests were 2 sided at 5% significance levels.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustment was made for multiple comparisons because the comparison was predefined.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>The model included mean baseline fluoride level for treatment period (covariate), treatment and period as fixed and subject was random factor.</method_desc>
+            <param_type>Adjusted Mean Difference</param_type>
+            <param_value>1.44</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>1.23</ci_lower_limit>
+            <ci_upper_limit>1.65</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Tests were 2 sided at 5% significance levels.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustment was made for multiple comparisons as the comparisons were predefined.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>The model included mean baseline fluoride level for treatment period (covariate), treatment and period as fixed and subject was random factor.</method_desc>
+            <param_type>Adjusted Mean Difference</param_type>
+            <param_value>0.95</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.74</ci_lower_limit>
+            <ci_upper_limit>1.16</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Fluoride Concentration at 15 Minutes After Brushing With Study Treatments</title>
+        <description>Change from baseline at any time point for a treatment period was calculated as the median post brushing fluoride value at a time point minus the median baseline (pre-brushing) fluoride value for a treatment period.</description>
+        <time_frame>Plaque samples were collected at baseline, 15 minutes post single application of study treatment</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>PP population: All participants who had at least one post-baseline efficacy assessment but did not have any major protocol deviations. Due to drop outs, there were differences in the "n" per treatment group. Missing data was not imputed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>NaF Toothpaste(1450ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g of with NaF and 0.4% carbopol toothpaste (1450ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O2">
+            <title>NaF Toothpaste (1400ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g NaF toothpaste (1400ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O3">
+            <title>NaMFP/NaF Toothpaste (1450ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g NaMFP and NaF toothpaste (1450ppmF &#8211; 1000ppmF as NaMFP and 450ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo Toothpaste (0ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g fluoride free toothpaste (0ppmF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="58" />
+                  <measurement group_id="O2" value="59" />
+                  <measurement group_id="O3" value="60" />
+                  <measurement group_id="O4" value="58" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Change From Baseline in Fluoride Concentration at 15 Minutes After Brushing With Study Treatments</title>
+            <description>Change from baseline at any time point for a treatment period was calculated as the median post brushing fluoride value at a time point minus the median baseline (pre-brushing) fluoride value for a treatment period.</description>
+            <units>&#956;g*F/g</units>
+            <param>Median</param>
+            <dispersion>Full Range</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" lower_limit="0.1" spread="4.586" upper_limit="21.7" value="2.00" />
+                  <measurement group_id="O2" lower_limit="0.1" spread="2.806" upper_limit="16.0" value="1.56" />
+                  <measurement group_id="O3" lower_limit="0.1" spread="1.633" upper_limit="7.2" value="0.76" />
+                  <measurement group_id="O4" lower_limit="-0.3" spread="0.083" upper_limit="0.4" value="0.03" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>0.0151</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.83</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.12</ci_lower_limit>
+            <ci_upper_limit>1.72</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>1.36</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.69</ci_lower_limit>
+            <ci_upper_limit>2.36</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis is no difference between treatments. Tests were 2-sided.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>3.01</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>2.06</ci_lower_limit>
+            <ci_upper_limit>4.05</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.75</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.41</ci_lower_limit>
+            <ci_upper_limit>1.27</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>2.10</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>1.50</ci_lower_limit>
+            <ci_upper_limit>2.74</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>1.01</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.73</ci_lower_limit>
+            <ci_upper_limit>1.35</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Fluoride Concentration at 30 Minutes Post Brushing With Study Treatments</title>
+        <description>Change from baseline at any time point for a treatment period was calculated as the median post brushing fluoride value at a time point minus the median baseline (pre-brushing) fluoride value for a treatment period.</description>
+        <time_frame>Plaque samples were collected at baseline, 30 minutes post single application of study treatment</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>PP population: All participants who had at least one post-baseline efficacy assessment but did not have any major protocol deviations. Due to drop outs, there were differences in the "n" per treatment group. Missing data was not imputed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>NaF Toothpaste(1450ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g of with NaF and 0.4% carbopol toothpaste (1450ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O2">
+            <title>NaF Toothpaste (1400ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g NaF toothpaste (1400ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O3">
+            <title>NaMFP/NaF Toothpaste (1450ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g NaMFP and NaF toothpaste (1450ppmF &#8211; 1000ppmF as NaMFP and 450ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo Toothpaste (0ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g fluoride free toothpaste (0ppmF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="58" />
+                  <measurement group_id="O2" value="58" />
+                  <measurement group_id="O3" value="60" />
+                  <measurement group_id="O4" value="58" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Change From Baseline in Fluoride Concentration at 30 Minutes Post Brushing With Study Treatments</title>
+            <description>Change from baseline at any time point for a treatment period was calculated as the median post brushing fluoride value at a time point minus the median baseline (pre-brushing) fluoride value for a treatment period.</description>
+            <units>&#956;g*F/g</units>
+            <param>Median</param>
+            <dispersion>Full Range</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" lower_limit="0.0" upper_limit="7.7" value="0.71" />
+                  <measurement group_id="O2" lower_limit="0.0" upper_limit="14.9" value="0.72" />
+                  <measurement group_id="O3" lower_limit="0.0" upper_limit="4.7" value="0.28" />
+                  <measurement group_id="O4" lower_limit="-0.3" upper_limit="0.3" value="0.02" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>0.5545</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.08</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.22</ci_lower_limit>
+            <ci_upper_limit>0.47</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>0.0003</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.40</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.15</ci_lower_limit>
+            <ci_upper_limit>0.71</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.91</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.58</ci_lower_limit>
+            <ci_upper_limit>1.56</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signal Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.36</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.15</ci_lower_limit>
+            <ci_upper_limit>0.68</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.91</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.58</ci_lower_limit>
+            <ci_upper_limit>1.35</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.37</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.26</ci_lower_limit>
+            <ci_upper_limit>0.56</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Fluoride Concentration at 1 Hour Post Brushing With Study Treatments</title>
+        <description>Change from baseline at any time point for a treatment period was calculated as the median post brushing fluoride value at a time point minus the median baseline (pre-brushing) fluoride value for a treatment period.</description>
+        <time_frame>Plaque samples were collected at baseline, 1 hour post single application of study treatment</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>PP population: All participants who had at least one post-baseline efficacy assessment but did not have any major protocol deviations. Due to drop outs, there were differences in the "n" per treatment group. Missing data was not imputed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>NaF Toothpaste(1450ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g of with NaF and 0.4% carbopol toothpaste (1450ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O2">
+            <title>NaF Toothpaste (1400ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g NaF toothpaste (1400ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O3">
+            <title>NaMFP/NaF Toothpaste (1450ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g NaMFP and NaF toothpaste (1450ppmF &#8211; 1000ppmF as NaMFP and 450ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo Toothpaste (0ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g fluoride free toothpaste (0ppmF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="58" />
+                  <measurement group_id="O2" value="58" />
+                  <measurement group_id="O3" value="58" />
+                  <measurement group_id="O4" value="58" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Change From Baseline in Fluoride Concentration at 1 Hour Post Brushing With Study Treatments</title>
+            <description>Change from baseline at any time point for a treatment period was calculated as the median post brushing fluoride value at a time point minus the median baseline (pre-brushing) fluoride value for a treatment period.</description>
+            <units>&#956;g*F/g</units>
+            <param>Median</param>
+            <dispersion>Full Range</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" lower_limit="0.0" upper_limit="3.1" value="0.20" />
+                  <measurement group_id="O2" lower_limit="0.0" upper_limit="6.7" value="0.22" />
+                  <measurement group_id="O3" lower_limit="0.0" upper_limit="1.6" value="0.12" />
+                  <measurement group_id="O4" lower_limit="0.00" upper_limit="0.02" value="0.01" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>0.6865</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>-0.02</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.13</ci_lower_limit>
+            <ci_upper_limit>0.08</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>0.1756</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.04</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.02</ci_lower_limit>
+            <ci_upper_limit>0.12</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.24</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.16</ci_lower_limit>
+            <ci_upper_limit>0.38</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>0.0023</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.11</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.04</ci_lower_limit>
+            <ci_upper_limit>0.22</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.34</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.22</ci_lower_limit>
+            <ci_upper_limit>0.51</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.18</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.12</ci_lower_limit>
+            <ci_upper_limit>0.25</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Fluoride Concentration at 2 Hours Post Brushing With Study Treatments</title>
+        <description>Change from baseline at any time point for a treatment period was calculated as the median post brushing fluoride value at a time point minus the median baseline (pre-brushing) fluoride value for a treatment period.</description>
+        <time_frame>Plaque samples were collected at baseline, 2 hour post single application of study treatment</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>PP population: All participants who had at least one post-baseline efficacy assessment but did not have any major protocol deviations. Due to drop outs, there were differences in the "n" per treatment group. Missing data was not imputed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>NaF Toothpaste(1450ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g of with NaF and 0.4% carbopol toothpaste (1450ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O2">
+            <title>NaF Toothpaste (1400ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g NaF toothpaste (1400ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O3">
+            <title>NaMFP/NaF Toothpaste (1450ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g NaMFP and NaF toothpaste (1450ppmF &#8211; 1000ppmF as NaMFP and 450ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo Toothpaste (0ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g fluoride free toothpaste (0ppmF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="58" />
+                  <measurement group_id="O2" value="59" />
+                  <measurement group_id="O3" value="58" />
+                  <measurement group_id="O4" value="57" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Change From Baseline in Fluoride Concentration at 2 Hours Post Brushing With Study Treatments</title>
+            <description>Change from baseline at any time point for a treatment period was calculated as the median post brushing fluoride value at a time point minus the median baseline (pre-brushing) fluoride value for a treatment period.</description>
+            <units>&#956;g*F/g</units>
+            <param>Median</param>
+            <dispersion>Full Range</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" lower_limit="-0.1" upper_limit="0.7" value="0.09" />
+                  <measurement group_id="O2" lower_limit="-0.1" upper_limit="1.0" value="0.09" />
+                  <measurement group_id="O3" lower_limit="-0.3" upper_limit="0.5" value="0.07" />
+                  <measurement group_id="O4" lower_limit="-0.1" upper_limit="0.1" value="0.00" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>0.0783</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>-0.04</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.08</ci_lower_limit>
+            <ci_upper_limit>0.00</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>0.0531</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.03</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.00</ci_lower_limit>
+            <ci_upper_limit>0.07</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.10</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.07</ci_lower_limit>
+            <ci_upper_limit>0.14</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>0.0005</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.08</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.03</ci_lower_limit>
+            <ci_upper_limit>0.15</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.12</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.08</ci_lower_limit>
+            <ci_upper_limit>0.20</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.07</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.04</ci_lower_limit>
+            <ci_upper_limit>0.10</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Fluoride Concentration at 4 Hours Post Brushing With Study Treatments</title>
+        <description>Change from baseline at any time point for a treatment period was calculated as the median post brushing fluoride value at a time point minus the median baseline (pre-brushing) fluoride value for a treatment period.</description>
+        <time_frame>Plaque samples were collected at baseline, 4 hours post single application of study treatment</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>PP population: All participants who had at least one post-baseline efficacy assessment but did not have any major protocol deviations. Due to drop outs, there were differences in the "n" per treatment group. Missing data was not imputed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>NaF Toothpaste(1450ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g of with NaF and 0.4% carbopol toothpaste (1450ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds</description>
+          </group>
+          <group group_id="O2">
+            <title>NaF Toothpaste (1400ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g NaF toothpaste (1400ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O3">
+            <title>NaMFP/NaF Toothpaste (1450ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g NaMFP and NaF toothpaste (1450ppmF &#8211; 1000ppmF as NaMFP and 450ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+          <group group_id="O4">
+            <title>Placebo Toothpaste (0ppmF)</title>
+            <description>Participants brushed their natural teeth for one timed minute with 1.6g fluoride free toothpaste (0ppmF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="57" />
+                  <measurement group_id="O2" value="57" />
+                  <measurement group_id="O3" value="60" />
+                  <measurement group_id="O4" value="57" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Change From Baseline in Fluoride Concentration at 4 Hours Post Brushing With Study Treatments</title>
+            <description>Change from baseline at any time point for a treatment period was calculated as the median post brushing fluoride value at a time point minus the median baseline (pre-brushing) fluoride value for a treatment period.</description>
+            <units>&#956;g*F/g</units>
+            <param>Median</param>
+            <dispersion>Full Range</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" lower_limit="-0.1" upper_limit="0.7" value="0.04" />
+                  <measurement group_id="O2" lower_limit="-0.1" upper_limit="1.2" value="0.04" />
+                  <measurement group_id="O3" lower_limit="-0.3" upper_limit="0.2" value="0.02" />
+                  <measurement group_id="O4" lower_limit="-0.1" upper_limit="0.1" value="-0.01" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>0.4309</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>-0.01</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.03</ci_lower_limit>
+            <ci_upper_limit>0.01</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>0.0726</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.02</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.00</ci_lower_limit>
+            <ci_upper_limit>0.04</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.04</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.03</ci_lower_limit>
+            <ci_upper_limit>0.06</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>0.0107</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.03</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.01</ci_lower_limit>
+            <ci_upper_limit>0.06</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>&lt;0.0001</p_value>
+            <method>Wilcoxon Signed Rank Test</method>
+            <method_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</method_desc>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.05</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.03</ci_lower_limit>
+            <ci_upper_limit>0.07</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Null hypothesis was no difference between treatments, being compared. Statistical tests were 2-sided at 5% significance level.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>0.0012</p_value>
+            <p_value_desc>No adjustments for multiple comparisons were made as the primary comparison was pre-defined.</p_value_desc>
+            <method>Wilcoxon Signed Rank Test</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.03</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.01</ci_lower_limit>
+            <ci_upper_limit>0.04</ci_upper_limit>
+            <estimate_desc>Difference is first named treatment minus second named treatment such that a positive difference favors the first named treatment.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>All adverse events encountered or spontaneously reported following administration of any investigational product (including washout product), or for up to 5 days after the last administration of investigational product were recorded.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>NaF Toothpaste(1450ppmF)</title>
+          <description>Participants brushed their natural teeth for one timed minute with 1.6g of with NaF and 0.4% carbopol toothpaste (1450ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+        </group>
+        <group group_id="E2">
+          <title>NaF Toothpaste (1400ppmF)</title>
+          <description>Participants brushed their natural teeth for one timed minute with 1.6g NaF toothpaste (1400ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+        </group>
+        <group group_id="E3">
+          <title>NaMFP/NaF Toothpaste (1450ppmF)</title>
+          <description>Participants brushed their natural teeth for one timed minute with 1.6g NaMFP and NaF toothpaste (1450ppmF &#8211; 1000ppmF as NaMFP and 450ppmF as NaF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+        </group>
+        <group group_id="E4">
+          <title>Placebo Toothpaste (0ppmF)</title>
+          <description>Participants brushed their natural teeth for one timed minute with 1.6g fluoride free toothpaste (0ppmF), under the supervision of study staff. Participants then swished the slurry around their mouth for 10 seconds, expectorated, then rinsed with water for 10 seconds.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="58" />
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="59" />
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="61" />
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="59" />
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="58" />
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="59" />
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="61" />
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="59" />
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>GSK agreements may vary with individual investigators, but will not prohibit any investigator from publishing. GSK supports the publication of results from all centers of a multi-center trial but requests that reports based on single-site data not precede the primary publication of the entire clinical trial.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>GSK Response Center</name_or_title>
+      <organization>GlaxoSmithKline</organization>
+      <phone>866-435-7343</phone>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>

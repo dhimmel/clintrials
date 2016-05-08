@@ -1,0 +1,174 @@
+<clinical_study rank="202018">
+  
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 05, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00111592</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MEC 00-007</org_study_id>
+    <nct_id>NCT00111592</nct_id>
+  </id_info>
+  <brief_title>Effectiveness of a Treatment Protocol for Lower Urinary Tract Symptoms in General Practice</brief_title>
+  <official_title>Effectiveness of a Treatment Protocol for Lower Urinary Tract Symptoms in General Practice</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Maastricht University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Yamanouchi</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Maastricht University Medical Center</source>
+  <oversight_info>
+    <authority>Netherlands: The Central Committee on Research Involving Human Subjects (CCMO)</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Ageing and the availability of medication has led to an increase of elderly male patients
+      being treated for lower urinary tract symptoms (LUTS), or voiding problems ("prostate
+      problems"). However, guidelines are vague as to which patients should and which should not
+      be treated, and how.
+
+      Although several treatment modalities have proven efficacy in selected populations, it is
+      unclear how effective these treatments are in daily practice.
+
+      This study investigates the hypothesis that a treatment protocol in which clear indications
+      are formulated for all treatment modalities is more effective, as compared to current usual
+      primary care, in reducing both symptoms as related to the quality of voiding in elderly
+      males.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Guidelines fail to provide specific diagnostic criteria and clear indications for therapy in
+      elderly male patients with lower urinary tract symptoms. Consequently, the group of patients
+      diagnosed with LUTS in primary care is very heterogeneous, and daily care varies widely.
+
+      Consequently, efficacy trials of alpha-blockers, 5-alpha-reductase inhibitors and surgery
+      performed in selected, well defined homogeneous populations cannot easily be generalised to
+      the heterogeneous primary care situation.
+
+      A practical randomised trial enrolling patients on the basis of symptoms have the advantage
+      of being of immediate practical value.
+
+      We compare a treatment protocol with clear indications for therapy with current usual care
+      in a population selected on symptoms rather than well defined diseases or definite test
+      results.
+
+      Two hundred eight subjects were randomised into intervention (N=104) and control (N=104)
+      conditions.
+
+      After two years of follow-up, IPSS scores, bother scores, maximum urinary flow rates and the
+      incidence of acute urinary retention and urinary tract infections have been compared.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 2000</start_date>
+  <completion_date type="Actual">December 2004</completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Degree of lower urinary tract symptoms (International Prostate Symptom Score [IPSS])</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum urinary flow rate (Qmax)</measure>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Bother due to lower urinary tract symptoms (Danish-Prostatic Symptom Score [Dan-PSS])</measure>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>incidence of acute urinary retention</measure>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>incidence of urinary tract infections</measure>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">208</enrollment>
+  <condition>Benign Prostatic Hyperplasia</condition>
+  <condition>Lower Urinary Tract Symptoms</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>current usual care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>treatment protocol with clear indications for therapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>current usual care</intervention_name>
+    <description>current usual care</description>
+    <arm_group_label>1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>treatment protocol with clear indications for therapy</intervention_name>
+    <description>treatment protocol with clear indications for therapy</description>
+    <arm_group_label>2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  International Prostate Symptom Score &gt; 7
+
+          -  Age &gt; 55 years
+
+        Exclusion Criteria:
+
+          -  Heart failure
+
+          -  Diabetes type I
+
+          -  Psychiatric disorder/cognitive dysfunction
+
+          -  History of prostate surgery
+
+          -  Active treatment for lower urinary tract symptoms
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Roelf Norg</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of General Practice, Universiteit Maastricht</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Maastricht, Department of General Practice</name>
+      <address>
+        <city>Maastricht</city>
+        <state>Limburg</state>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>November 2007</verification_date>
+  <lastchanged_date>November 21, 2007</lastchanged_date>
+  <firstreceived_date>May 23, 2005</firstreceived_date>
+  <keyword>BPH</keyword>
+  <keyword>benign prostatic hyperplasia</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    
+    <mesh_term>Hyperplasia</mesh_term>
+    <mesh_term>Lower Urinary Tract Symptoms</mesh_term>
+    <mesh_term>Prostatic Hyperplasia</mesh_term>
+  </condition_browse>
+  
+</clinical_study>

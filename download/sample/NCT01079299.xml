@@ -1,0 +1,421 @@
+<clinical_study rank="129070">
+  
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 05, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01079299</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CL-VU-0308</org_study_id>
+    <nct_id>NCT01079299</nct_id>
+  </id_info>
+  <brief_title>Effect of Intermittent Pneumatic Compression on Ulcer Healing in Subjects With Secondary Lymphedema</brief_title>
+  <official_title>Intermittent, Gradient, Pneumatic Compression Plus Standard Compression for Hard-To-Heal Venous Ulcers in Subjects With Secondary Lymphedema and Chronic Venous Insufficiency</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Calvary Hospital, Bronx, NY</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>RTS Family Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>New York State Department of Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Calvary Hospital, Bronx, NY</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, controlled, parallel group, open label, clinical trial to evaluate the
+      effectiveness of intermittent, gradient, pneumatic compression (IPC)on the healing of venous
+      ulcers in subjects diagnosed with chronic secondary lymphedema. Time to complete healing,
+      healing rates, edema, wound pain, granulation tissue, and wound exudate (type and amount)
+      will be compared between the IPC-treated group (IPC plus standard compression)and control
+      (standard compression alone).
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>December 2007</start_date>
+  <completion_date type="Actual">May 2010</completion_date>
+  <primary_completion_date type="Actual">April 2010</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Median Time to Wound Closure at 9 Months</measure>
+    <time_frame>9 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Median number of days for complete healing in each treatment group</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">52</enrollment>
+  <condition>Lymphedema</condition>
+  <arm_group>
+    <arm_group_label>IPC plus standard compression</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard compression alone</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Intermittent, gradient, pneumatic compression device</intervention_name>
+    <description>lymphedema pump provides external compression in a segmental,gradient fashion</description>
+    <arm_group_label>IPC plus standard compression</arm_group_label>
+    <arm_group_label>Standard compression alone</arm_group_label>
+    <other_name>Bio 4000 (Bio Compression Inc, Moonachie,NJ)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Diagnosed with secondary lymphedema
+
+          -  Presence of a venous ulcer that has not healed in more than 6 months
+
+          -  Localized wound pain greater than 3 with VAS
+
+          -  Ulcer must be on lower leg (below knee)
+
+          -  Ulcer must be of venous etiology
+
+          -  CVI proven by duplex studies
+
+          -  Subject must have adequate arterial blood flow (ABI &gt; 0.70)
+
+          -  Subject must be able to tolerate compression bandages
+
+          -  Subject must be ambulatory
+
+          -  Capable of understanding consent process
+
+        Exclusion Criteria:
+
+          -  Wound infection
+
+          -  Ulcer of non-venous etiology
+
+          -  Ulcer on toes or plantar surface of the foot
+
+          -  Subject taking any medication that in the opinion of the investigator affects wound
+             healing
+
+          -  Alcohol or drug abuse
+
+          -  Active deep venous thrombosis (DVT)
+
+          -  Subject has a cancer diagnosis
+
+          -  Diabetic with hemoglobin A1C&gt;12
+
+          -  Arterial insufficiency ABI&lt;0.70
+
+          -  Subject is not capable of walking (wheelchair-bound or bed-bound)
+
+          -  Subject currently enrolled in another clinical trial
+
+          -  Moderate to severe congestive heart failure
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Calvary Hospital, Center for Curative and Palliative Wound Care</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2010</verification_date>
+  <lastchanged_date>January 9, 2012</lastchanged_date>
+  <firstreceived_date>March 2, 2010</firstreceived_date>
+  <firstreceived_results_date>August 18, 2011</firstreceived_results_date>
+  <responsible_party>
+    <name_title>Oscar M. Alvarez, PhD / Principal Investigator</name_title>
+    <organization>Center for curative and Palliative Wound Care, Calvary Hospital</organization>
+  </responsible_party>
+  <keyword>venous ulcer</keyword>
+  <keyword>secondary lymphedema</keyword>
+  <keyword>chronic lower leg ulceration</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    
+    <mesh_term>Lymphedema</mesh_term>
+  </condition_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>52 subjects were treated, IPC n=27, Control n=25</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>IPC Plus Standard Compression</title>
+        </group>
+        <group group_id="P2">
+          <title>Standard Compression Alone</title>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants count="27" group_id="P1" />
+                <participants count="25" group_id="P2" />
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants count="27" group_id="P1" />
+                <participants count="25" group_id="P2" />
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants count="0" group_id="P1" />
+                <participants count="0" group_id="P2" />
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>IPC Plus Standard Compression</title>
+        </group>
+        <group group_id="B2">
+          <title>Standard Compression Alone</title>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <measure_list>
+        <measure>
+          <title>Number of Participants</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="27" />
+                <measurement group_id="B2" value="25" />
+                <measurement group_id="B3" value="52" />
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>&lt;=18 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="0" />
+                <measurement group_id="B2" value="0" />
+                <measurement group_id="B3" value="0" />
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Between 18 and 65 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="11" />
+                <measurement group_id="B2" value="13" />
+                <measurement group_id="B3" value="24" />
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>&gt;=65 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="16" />
+                <measurement group_id="B2" value="12" />
+                <measurement group_id="B3" value="28" />
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" spread="5.6" value="66" />
+                <measurement group_id="B2" spread="4.9" value="59" />
+                <measurement group_id="B3" spread="5" value="62" />
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>Female</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="10" />
+                <measurement group_id="B2" value="9" />
+                <measurement group_id="B3" value="19" />
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Male</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="17" />
+                <measurement group_id="B2" value="16" />
+                <measurement group_id="B3" value="33" />
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>United States</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="27" />
+                <measurement group_id="B2" value="25" />
+                <measurement group_id="B3" value="52" />
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Median Time to Wound Closure at 9 Months</title>
+        <description>Median number of days for complete healing in each treatment group</description>
+        <time_frame>9 months</time_frame>
+        <safety_issue>No</safety_issue>
+        <group_list>
+          <group group_id="O1">
+            <title>IPC Plus Standard Compression</title>
+          </group>
+          <group group_id="O2">
+            <title>Standard Compression Alone</title>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="27" />
+                  <measurement group_id="O2" value="25" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Median Time to Wound Closure at 9 Months</title>
+            <description>Median number of days for complete healing in each treatment group</description>
+            <units>median number of days for complete heali</units>
+            <param>Median</param>
+            <dispersion>Standard Error</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" spread="24" value="141" />
+                  <measurement group_id="O2" spread="29" value="211" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <group_list>
+        <group group_id="E1">
+          <title>IPC Plus Standard Compression</title>
+        </group>
+        <group group_id="E2">
+          <title>Standard Compression Alone</title>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="27" />
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="25" />
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="27" />
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="25" />
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Oscar M. Alvarez / Principal Investigator</name_or_title>
+      <organization>Center for Curative and Palliative Wound Care Calvary Hospital</organization>
+      <phone>718-518-2577</phone>
+      <email>oalvarez@calvaryhospital.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>

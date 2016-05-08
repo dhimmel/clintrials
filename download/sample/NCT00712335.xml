@@ -1,0 +1,1103 @@
+<clinical_study rank="156845">
+  
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 05, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00712335</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MASK2008</org_study_id>
+    <nct_id>NCT00712335</nct_id>
+  </id_info>
+  <brief_title>The Effects of Montelukast on Smokers With Asthma</brief_title>
+  <official_title>The Effects of Montelukast on Sputum Cells and Inflammatory Markers in Smokers With Asthma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Inje University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Inje University</source>
+  <oversight_info>
+    <authority>South Korea: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is:
+
+        1. To compare neutrophilia, eosinophilic inflammatory markers and asthma symptom indices
+           between smokers and non-smokers.
+
+        2. To elucidate the mechanism by which cigarette smokers are resistant to corticosteroids.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Many smokers have insufficient control of their symptoms due to inefficacy of ICS in this
+      subpopulation of asthmatics. Cigarette smoking has been shown to stimulate production of
+      cysLTs. CysLTs could activate production of IL-8 for neutrophilia as well as cause
+      eosinophilia in the airway of asthmatics.
+
+      LTRAs are felt to be less efficacious than ICS in smokers with asthma. However, LTRA's
+      unique mechanism of action could be particularly efficacious in preventing worsening
+      symptoms and lung function for smokers with asthma. Given this, along with the fact that ICS
+      are less effective in smokers, targeting cysLT could lead to significant clinical benefits
+      for asthmatic smokers.
+
+      Data from this study may possibly serve as crucial data for the significant clinical
+      benefits for asthmatic smokers and determination of the mechanism of corticosteroid
+      resistance in smokers with asthma.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>February 2007</start_date>
+  <completion_date type="Actual">May 2011</completion_date>
+  <primary_completion_date type="Actual">May 2011</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Pharmacodynamics Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Subject), Primary Purpose: Diagnostic</study_design>
+  <primary_outcome>
+    <measure>Sputum Neutrophil Percentages</measure>
+    <time_frame>24 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Week 24 sputum neutrophil percentages were measured in active treatment groups.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Sputum Eosinophil Percentages</measure>
+    <time_frame>24 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Secondary endpoints of inflammatory markers (sputum eosinophil percentages at 24 weeks) were measured in active treatment groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sputum IL-8 Levels</measure>
+    <time_frame>24 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Week 24 sputum IL-8 levels in active treatment groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sputum GM-CSF Levels</measure>
+    <time_frame>24 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Week 24 sputum GM-CSF levels in active treatment groups were measured.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sputum IFN-gamma/IL-5 Ratios</measure>
+    <time_frame>24 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Week 24 sputum IFN-gamma/IL-5 ratios were determined in active treatment groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sputum Eotaxin Levels</measure>
+    <time_frame>24 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Week 24 sputum eotaxin levels in active treatment groups were measured.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sputum RANTES Levels</measure>
+    <time_frame>24 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Week 24 sputum RANTES levels in active treatment groups were measured.</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Actual">105</enrollment>
+  <condition>Asthmatic Smokers</condition>
+  <condition>Non-asthmatic Smokers</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Asthmatic smokers treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Asthmatic smoker treated with Montelukast only:
+Montelukast dosage: PO 10 mg QHS for 3 months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>3</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Non-smoking asthmatics treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>4</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Non-smoking asthmatic treated with Montelukast only:
+Montelukast dosage: PO 10 mg QHS for 3 months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>5</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Normal controls</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fluticasone Propionate</intervention_name>
+    <description>DPI 250 mcg BID for 3 weeks</description>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_label>3</arm_group_label>
+    <other_name>inhaled corticosteroid</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Montelukast</intervention_name>
+    <description>PO 10 mg QHS for 3 weeks</description>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_label>4</arm_group_label>
+    <other_name>leukotriene receptor antagonist</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Salmeterol</intervention_name>
+    <description>DPI 50mg BID for 3 weeks</description>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_label>3</arm_group_label>
+    <other_name>long-acting beta-agonist</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Asthmatics:
+
+          -  clinical history of asthma for at least 1 year
+
+          -  with evidence of reversible airway obstruction,
+
+          -  two documented FEV1 between 60-85%,
+
+          -  PC20 &lt; 4mg/ml by methacholine challenge test
+
+          -  and average baseline &#946;-agonist use of 2 puffs/day
+
+        Smokers:
+
+          -  smoke 1/2 to 2 packs a day
+
+          -  with a smoking history of 5-30 pack years
+
+        Non-smokers:
+
+          -  Non-smokers will have either never smoked or have stopped smoking cigarettes over 5
+             years ago
+
+        Exclusion Criteria:
+
+          -  positive HCG (for females)
+
+          -  have a respiratory tract infection or need oral corticosteroids within the preceding
+             6 weeks
+
+          -  history of COPD or respiratory disorder other than asthma
+
+          -  history of psychiatric illness
+
+          -  allergy to fluticasone propionate, salmeterol, montelukast or any of their components
+
+          -  significant, unstable medical condition other than asthma
+
+          -  history of life-threatening asthma exacerbation requiring intubation and mechanical
+             ventilation in the last ten years
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chang-Keun Kim, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Asthma and Allergy Center, Inje University Sanggye Paik Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Asthma and Allergy Center, Inje University Sanggye Paik Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>139-707</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>April 18, 2012</lastchanged_date>
+  <firstreceived_date>July 7, 2008</firstreceived_date>
+  <firstreceived_results_date>November 16, 2011</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Inje University</investigator_affiliation>
+    <investigator_full_name>Chang-Keun Kim, Dr.</investigator_full_name>
+    <investigator_title>Director, Asthma and Allergy Center; Chairman of Pediatrics; Professor of Pediatrics</investigator_title>
+  </responsible_party>
+  <keyword>asthmatics</keyword>
+  <keyword>smokers</keyword>
+  <keyword>inhaled corticosteroids</keyword>
+  <keyword>leukotriene receptor antagonists</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    
+    <mesh_term>Fluticasone</mesh_term>
+    <mesh_term>Leukotriene Antagonists</mesh_term>
+    <mesh_term>Montelukast</mesh_term>
+    <mesh_term>Salmeterol</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Recruitment period: January 2008-April 2011 Recruitment location: Asthma and Allergy Center, Inje University Sanggye Paik Hospital</recruitment_details>
+      <pre_assignment_details>After randomization, a 10-day washout period followed in which subjects were taken off all medications except albuterol metered dose inhaler as needed. After the washout period, baseline induced sputum was obtained in each group along with primary and secondary endpoints. This was followed by a 3-week run in period.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Asthmatic Smokers Treated With Combination Therapy</title>
+          <description>Asthmatic smokers treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+        </group>
+        <group group_id="P2">
+          <title>Asthmatic Smoker Treated With Montelukast Only</title>
+          <description>Asthmatic smoker treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+        </group>
+        <group group_id="P3">
+          <title>Non-smoking Asthmatic Treated With Combination Therapy</title>
+          <description>Non-smoking asthmatic treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+        </group>
+        <group group_id="P4">
+          <title>Non-smoking Asthmatic Treated With Montelukast Only</title>
+          <description>Non-smoking asthmatic treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+        </group>
+        <group group_id="P5">
+          <title>Normal Controls</title>
+          <description>Normal controls did not receive any treatment.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants count="8" group_id="P1" />
+                <participants count="32" group_id="P2" />
+                <participants count="11" group_id="P3" />
+                <participants count="24" group_id="P4" />
+                <participants count="30" group_id="P5" />
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants count="5" group_id="P1" />
+                <participants count="15" group_id="P2" />
+                <participants count="6" group_id="P3" />
+                <participants count="19" group_id="P4" />
+                <participants count="30" group_id="P5" />
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants count="3" group_id="P1" />
+                <participants count="17" group_id="P2" />
+                <participants count="5" group_id="P3" />
+                <participants count="5" group_id="P4" />
+                <participants count="0" group_id="P5" />
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants count="0" group_id="P1" />
+                <participants count="7" group_id="P2" />
+                <participants count="2" group_id="P3" />
+                <participants count="3" group_id="P4" />
+                <participants count="0" group_id="P5" />
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants count="2" group_id="P1" />
+                <participants count="5" group_id="P2" />
+                <participants count="0" group_id="P3" />
+                <participants count="1" group_id="P4" />
+                <participants count="0" group_id="P5" />
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants count="1" group_id="P1" />
+                <participants count="2" group_id="P2" />
+                <participants count="1" group_id="P3" />
+                <participants count="0" group_id="P4" />
+                <participants count="0" group_id="P5" />
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lack of Efficacy</title>
+              <participants_list>
+                <participants count="0" group_id="P1" />
+                <participants count="0" group_id="P2" />
+                <participants count="1" group_id="P3" />
+                <participants count="1" group_id="P4" />
+                <participants count="0" group_id="P5" />
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other Reason</title>
+              <participants_list>
+                <participants count="0" group_id="P1" />
+                <participants count="3" group_id="P2" />
+                <participants count="1" group_id="P3" />
+                <participants count="0" group_id="P4" />
+                <participants count="0" group_id="P5" />
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Asthmatic Smokers Treated With Combination Therapy</title>
+          <description>Asthmatic smokers treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+        </group>
+        <group group_id="B2">
+          <title>Asthmatic Smoker Treated With Montelukast Only</title>
+          <description>Asthmatic smoker treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+        </group>
+        <group group_id="B3">
+          <title>Non-smoking Asthmatic Treated With Combination Therapy</title>
+          <description>Non-smoking asthmatic treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+        </group>
+        <group group_id="B4">
+          <title>Non-smoking Asthmatic Treated With Montelukast Only</title>
+          <description>Non-smoking asthmatic treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+        </group>
+        <group group_id="B5">
+          <title>Normal Controls</title>
+          <description>Normal controls did not receive any treatment.</description>
+        </group>
+        <group group_id="B6">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <measure_list>
+        <measure>
+          <title>Number of Participants</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="8" />
+                <measurement group_id="B2" value="32" />
+                <measurement group_id="B3" value="11" />
+                <measurement group_id="B4" value="24" />
+                <measurement group_id="B5" value="30" />
+                <measurement group_id="B6" value="105" />
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>&lt;=18 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="0" />
+                <measurement group_id="B2" value="0" />
+                <measurement group_id="B3" value="0" />
+                <measurement group_id="B4" value="0" />
+                <measurement group_id="B5" value="0" />
+                <measurement group_id="B6" value="0" />
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Between 18 and 65 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="8" />
+                <measurement group_id="B2" value="32" />
+                <measurement group_id="B3" value="11" />
+                <measurement group_id="B4" value="24" />
+                <measurement group_id="B5" value="30" />
+                <measurement group_id="B6" value="105" />
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>&gt;=65 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="0" />
+                <measurement group_id="B2" value="0" />
+                <measurement group_id="B3" value="0" />
+                <measurement group_id="B4" value="0" />
+                <measurement group_id="B5" value="0" />
+                <measurement group_id="B6" value="0" />
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" spread="11.41" value="51.38" />
+                <measurement group_id="B2" spread="8.52" value="36.03" />
+                <measurement group_id="B3" spread="17.46" value="45.64" />
+                <measurement group_id="B4" spread="14.79" value="39.00" />
+                <measurement group_id="B5" spread="11.35" value="40.55" />
+                <measurement group_id="B6" spread="4.24" value="40.09" />
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>Female</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="3" />
+                <measurement group_id="B2" value="5" />
+                <measurement group_id="B3" value="4" />
+                <measurement group_id="B4" value="22" />
+                <measurement group_id="B5" value="22" />
+                <measurement group_id="B6" value="56" />
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Male</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="5" />
+                <measurement group_id="B2" value="27" />
+                <measurement group_id="B3" value="7" />
+                <measurement group_id="B4" value="2" />
+                <measurement group_id="B5" value="8" />
+                <measurement group_id="B6" value="49" />
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>Korea, Republic of</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="8" />
+                <measurement group_id="B2" value="32" />
+                <measurement group_id="B3" value="11" />
+                <measurement group_id="B4" value="24" />
+                <measurement group_id="B5" value="30" />
+                <measurement group_id="B6" value="105" />
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Secondary</type>
+        <title>Sputum Eosinophil Percentages</title>
+        <description>Secondary endpoints of inflammatory markers (sputum eosinophil percentages at 24 weeks) were measured in active treatment groups</description>
+        <time_frame>24 weeks</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>We will use ITT and PP protocols for analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Asthmatic Smokers Treated With Combination Therapy</title>
+            <description>Asthmatic smokers treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Asthmatic Smoker Treated With Montelukast Only</title>
+            <description>Asthmatic smoker treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+          </group>
+          <group group_id="O3">
+            <title>Non-smoking Asthmatic Treated With Combination Therapy</title>
+            <description>Non-smoking asthmatic treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+          </group>
+          <group group_id="O4">
+            <title>Non-smoking Asthmatic Treated With Montelukast Only</title>
+            <description>Non-smoking asthmatic treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+          </group>
+          <group group_id="O5">
+            <title>Normal Controls</title>
+            <description>Normal controls did not receive any treatment.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="5" />
+                  <measurement group_id="O2" value="15" />
+                  <measurement group_id="O3" value="6" />
+                  <measurement group_id="O4" value="19" />
+                  <measurement group_id="O5" value="0" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Sputum Eosinophil Percentages</title>
+            <description>Secondary endpoints of inflammatory markers (sputum eosinophil percentages at 24 weeks) were measured in active treatment groups</description>
+            <units>percentage of eosinophils</units>
+            <param>Mean</param>
+            <dispersion>Standard Deviation</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" spread="3.01" value="2.33" />
+                  <measurement group_id="O2" spread="6.43" value="3.60" />
+                  <measurement group_id="O3" spread="1.34" value="1.60" />
+                  <measurement group_id="O4" spread="6.10" value="3.26" />
+                  <measurement group_id="O5" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Sputum Neutrophil Percentages</title>
+        <description>Week 24 sputum neutrophil percentages were measured in active treatment groups.</description>
+        <time_frame>24 weeks</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>We will be using intention-to-treat and per protocol for analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Asthmatic Smokers Treated With Combination Therapy</title>
+            <description>Asthmatic smokers treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Asthmatic Smoker Treated With Montelukast Only</title>
+            <description>Asthmatic smoker treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+          </group>
+          <group group_id="O3">
+            <title>Non-smoking Asthmatic Treated With Combination Therapy</title>
+            <description>Non-smoking asthmatic treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+          </group>
+          <group group_id="O4">
+            <title>Non-smoking Asthmatic Treated With Montelukast Only</title>
+            <description>Non-smoking asthmatic treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+          </group>
+          <group group_id="O5">
+            <title>Normal Controls</title>
+            <description>Normal controls did not receive any treatment.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="5" />
+                  <measurement group_id="O2" value="15" />
+                  <measurement group_id="O3" value="6" />
+                  <measurement group_id="O4" value="19" />
+                  <measurement group_id="O5" value="0" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Sputum Neutrophil Percentages</title>
+            <description>Week 24 sputum neutrophil percentages were measured in active treatment groups.</description>
+            <units>percentage of neutrophils</units>
+            <param>Mean</param>
+            <dispersion>Standard Deviation</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" spread="8.22" value="86.00" />
+                  <measurement group_id="O2" spread="24.14" value="72.53" />
+                  <measurement group_id="O3" spread="6.41" value="89.33" />
+                  <measurement group_id="O4" spread="17.07" value="79.84" />
+                  <measurement group_id="O5" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Sputum IL-8 Levels</title>
+        <description>Week 24 sputum IL-8 levels in active treatment groups</description>
+        <time_frame>24 weeks</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>We will ITT and PP protocols for analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Asthmatic Smokers Treated With Combination Therapy</title>
+            <description>Asthmatic smokers treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Asthmatic Smoker Treated With Montelukast Only</title>
+            <description>Asthmatic smoker treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+          </group>
+          <group group_id="O3">
+            <title>Non-smoking Asthmatic Treated With Combination Therapy</title>
+            <description>Non-smoking asthmatic treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+          </group>
+          <group group_id="O4">
+            <title>Non-smoking Asthmatic Treated With Montelukast Only</title>
+            <description>Non-smoking asthmatic treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+          </group>
+          <group group_id="O5">
+            <title>Normal Controls</title>
+            <description>Normal controls did not receive any treatment.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="5" />
+                  <measurement group_id="O2" value="15" />
+                  <measurement group_id="O3" value="6" />
+                  <measurement group_id="O4" value="19" />
+                  <measurement group_id="O5" value="0" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Sputum IL-8 Levels</title>
+            <description>Week 24 sputum IL-8 levels in active treatment groups</description>
+            <units>pg/ml</units>
+            <param>Mean</param>
+            <dispersion>Standard Deviation</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" spread="804,831" value="334545" />
+                  <measurement group_id="O2" spread="74,106" value="26,300" />
+                  <measurement group_id="O3" spread="2342" value="3602" />
+                  <measurement group_id="O4" spread="738415" value="317778" />
+                  <measurement group_id="O5" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Sputum GM-CSF Levels</title>
+        <description>Week 24 sputum GM-CSF levels in active treatment groups were measured.</description>
+        <time_frame>24 weeks</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>We will use ITT and PP for analysis</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Asthmatic Smokers Treated With Combination Therapy</title>
+            <description>Asthmatic smokers treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Asthmatic Smoker Treated With Montelukast Only</title>
+            <description>Asthmatic smoker treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+          </group>
+          <group group_id="O3">
+            <title>Non-smoking Asthmatic Treated With Combination Therapy</title>
+            <description>Non-smoking asthmatic treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+          </group>
+          <group group_id="O4">
+            <title>Non-smoking Asthmatic Treated With Montelukast Only</title>
+            <description>Non-smoking asthmatic treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+          </group>
+          <group group_id="O5">
+            <title>Normal Controls</title>
+            <description>Normal controls did not receive any treatment.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="5" />
+                  <measurement group_id="O2" value="15" />
+                  <measurement group_id="O3" value="6" />
+                  <measurement group_id="O4" value="19" />
+                  <measurement group_id="O5" value="0" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Sputum GM-CSF Levels</title>
+            <description>Week 24 sputum GM-CSF levels in active treatment groups were measured.</description>
+            <units>pg/ml</units>
+            <param>Mean</param>
+            <dispersion>Standard Deviation</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" spread="24.67" value="17.60" />
+                  <measurement group_id="O2" spread="16.37" value="15.18" />
+                  <measurement group_id="O3" spread="10.66" value="13.92" />
+                  <measurement group_id="O4" spread="18.05" value="12.16" />
+                  <measurement group_id="O5" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Sputum IFN-gamma/IL-5 Ratios</title>
+        <description>Week 24 sputum IFN-gamma/IL-5 ratios were determined in active treatment groups.</description>
+        <time_frame>24 weeks</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>ITT and PP were used for analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Asthmatic Smokers Treated With Combination Therapy</title>
+            <description>Asthmatic smokers treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Asthmatic Smoker Treated With Montelukast Only</title>
+            <description>Asthmatic smoker treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+          </group>
+          <group group_id="O3">
+            <title>Non-smoking Asthmatic Treated With Combination Therapy</title>
+            <description>Non-smoking asthmatic treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+          </group>
+          <group group_id="O4">
+            <title>Non-smoking Asthmatic Treated With Montelukast Only</title>
+            <description>Non-smoking asthmatic treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+          </group>
+          <group group_id="O5">
+            <title>Normal Controls</title>
+            <description>Normal controls did not receive any treatment.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="5" />
+                  <measurement group_id="O2" value="15" />
+                  <measurement group_id="O3" value="6" />
+                  <measurement group_id="O4" value="19" />
+                  <measurement group_id="O5" value="0" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Sputum IFN-gamma/IL-5 Ratios</title>
+            <description>Week 24 sputum IFN-gamma/IL-5 ratios were determined in active treatment groups.</description>
+            <units>ratio</units>
+            <param>Mean</param>
+            <dispersion>Standard Deviation</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" spread="742.1" value="627.4" />
+                  <measurement group_id="O2" spread="387.1" value="272.4" />
+                  <measurement group_id="O3" spread="82.70" value="183.8" />
+                  <measurement group_id="O4" spread="563.3" value="279.0" />
+                  <measurement group_id="O5" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Sputum Eotaxin Levels</title>
+        <description>Week 24 sputum eotaxin levels in active treatment groups were measured.</description>
+        <time_frame>24 weeks</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>ITT and PP were used for analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Asthmatic Smokers Treated With Combination Therapy</title>
+            <description>Asthmatic smokers treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Asthmatic Smoker Treated With Montelukast Only</title>
+            <description>Asthmatic smoker treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+          </group>
+          <group group_id="O3">
+            <title>Non-smoking Asthmatic Treated With Combination Therapy</title>
+            <description>Non-smoking asthmatic treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+          </group>
+          <group group_id="O4">
+            <title>Non-smoking Asthmatic Treated With Montelukast Only</title>
+            <description>Non-smoking asthmatic treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+          </group>
+          <group group_id="O5">
+            <title>Normal Controls</title>
+            <description>Normal controls did not receive any treatment.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="5" />
+                  <measurement group_id="O2" value="15" />
+                  <measurement group_id="O3" value="6" />
+                  <measurement group_id="O4" value="19" />
+                  <measurement group_id="O5" value="0" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Sputum Eotaxin Levels</title>
+            <description>Week 24 sputum eotaxin levels in active treatment groups were measured.</description>
+            <units>pg/ml</units>
+            <param>Mean</param>
+            <dispersion>Standard Deviation</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" spread="41.93" value="47.13" />
+                  <measurement group_id="O2" spread="93.15" value="87.90" />
+                  <measurement group_id="O3" spread="25.54" value="65.14" />
+                  <measurement group_id="O4" spread="44.07" value="64.61" />
+                  <measurement group_id="O5" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Sputum RANTES Levels</title>
+        <description>Week 24 sputum RANTES levels in active treatment groups were measured.</description>
+        <time_frame>24 weeks</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>ITT and PP were used for analysis.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Asthmatic Smokers Treated With Combination Therapy</title>
+            <description>Asthmatic smokers treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Asthmatic Smoker Treated With Montelukast Only</title>
+            <description>Asthmatic smoker treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+          </group>
+          <group group_id="O3">
+            <title>Non-smoking Asthmatic Treated With Combination Therapy</title>
+            <description>Non-smoking asthmatic treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+          </group>
+          <group group_id="O4">
+            <title>Non-smoking Asthmatic Treated With Montelukast Only</title>
+            <description>Non-smoking asthmatic treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+          </group>
+          <group group_id="O5">
+            <title>Normal Controls</title>
+            <description>Normal controls did not receive any treatment.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="5" />
+                  <measurement group_id="O2" value="15" />
+                  <measurement group_id="O3" value="6" />
+                  <measurement group_id="O4" value="19" />
+                  <measurement group_id="O5" value="0" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Sputum RANTES Levels</title>
+            <description>Week 24 sputum RANTES levels in active treatment groups were measured.</description>
+            <units>pg/ml</units>
+            <param>Mean</param>
+            <dispersion>Standard Deviation</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" spread="32.47" value="42.79" />
+                  <measurement group_id="O2" spread="40.41" value="44.03" />
+                  <measurement group_id="O3" spread="19.93" value="41.78" />
+                  <measurement group_id="O4" spread="29.93" value="36.41" />
+                  <measurement group_id="O5" />
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <desc>Normal Controls were not assessed for Adverse Events because they were not administered any treatment.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Asthmatic Smokers Treated With Combination Therapy</title>
+          <description>Asthmatic smokers treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+        </group>
+        <group group_id="E2">
+          <title>Asthmatic Smoker Treated With Montelukast Only</title>
+          <description>Asthmatic smoker treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+        </group>
+        <group group_id="E3">
+          <title>Non-smoking Asthmatic Treated With Combination Therapy</title>
+          <description>Non-smoking asthmatic treated with combination therapy:
+Fluticasone propionate dosage - DPI 250 mcg BID for 3 months Salmeterol dosage - DPI 50 mcg BID for 3 months</description>
+        </group>
+        <group group_id="E4">
+          <title>Non-smoking Asthmatic Treated With Montelukast Only</title>
+          <description>Non-smoking asthmatic treated with Montelukast only:
+Montelukast dosage - PO 10 mg QHS for 3 months</description>
+        </group>
+        <group group_id="E5">
+          <title>Normal Controls</title>
+          <description>Normal controls did not receive any treatment.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="8" />
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="32" />
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="11" />
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="24" />
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="0" />
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="8" />
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="32" />
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="11" />
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="24" />
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="0" />
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>It is difficult attaining representative gender ratios (i.e., representative of the general population) when conducting a smoking study in Korea, as smoking by females is still considered culturally taboo.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr. Chang-Keun Kim</name_or_title>
+      <organization>Inje University</organization>
+      <phone>82-2-950-8832</phone>
+      <email>kimck@paik.ac.kr</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
