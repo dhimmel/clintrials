@@ -4,8 +4,6 @@
 
 # Terms and Conditions - ClinicalTrials.gov
 
-## Contents
-
 ## Introduction
 
 The following Terms and Conditions apply for use of ClinicalTrials.gov data. Downloading ClinicalTrials.gov data indicates your acceptance of the following Terms and Conditions. These Terms and Conditions apply to all data obtained from ClinicalTrials.gov, independent of format and method of acquisition.
